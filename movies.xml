@@ -1,0 +1,3259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+  <Movie>
+    <title>Avatar The Way of Water</title>
+    <release_year>2022</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>James Cameron</director>
+    <country>USA</country>
+    <duration>192</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Sam Worthington, Zoe Saldana, Sigourney Weaver</actors_names>
+    <votes>524,426</votes>
+  </Movie>
+  <Movie>
+    <title>Spider-Man No Way Home</title>
+    <release_year>2021</release_year>
+    <genre>Action, Adventure, Superhero</genre>
+    <director>Jon Watts</director>
+    <country>USA</country>
+    <duration>148</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Tom Holland, Zendaya, Benedict Cumberbatch</actors_names>
+    <votes>931,409</votes>
+  </Movie>
+  <Movie>
+    <title>Dune</title>
+    <release_year>2021</release_year>
+    <genre>Sci-Fi, Adventure</genre>
+    <director>Denis Villeneuve</director>
+    <country>USA</country>
+    <duration>155</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Timothée Chalamet, Rebecca Ferguson, Zendaya</actors_names>
+    <votes>940,670</votes>
+  </Movie>
+  <Movie>
+    <title>Encanto</title>
+    <release_year>2021</release_year>
+    <genre>Animation, Musical</genre>
+    <director>Jared Bush, Byron Howard</director>
+    <country>USA</country>
+    <duration>99</duration>
+    <imbd_rating>7.2</imbd_rating>
+    <actors_names>Stephanie Beatriz, María Cecilia Botero, John Leguizamo</actors_names>
+    <votes>274,907</votes>
+  </Movie>
+  <Movie>
+    <title>Minari</title>
+    <release_year>2020</release_year>
+    <genre>Drama</genre>
+    <director>Lee Isaac Chung</director>
+    <country>USA</country>
+    <duration>115</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Steven Yeun, Han Ye-ri, Alan Kim</actors_names>
+    <votes>101,764</votes>
+  </Movie>
+  <Movie>
+    <title>Promising Young Woman</title>
+    <release_year>2020</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Emerald Fennell</director>
+    <country>UK, USA</country>
+    <duration>113</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Carey Mulligan, Bo Burnham, Alison Brie</actors_names>
+    <votes>219,893</votes>
+  </Movie>
+  <Movie>
+    <title>The Father</title>
+    <release_year>2020</release_year>
+    <genre>Drama</genre>
+    <director>Florian Zeller</director>
+    <country>UK, France</country>
+    <duration>97</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Anthony Hopkins, Olivia Colman, Mark Gatiss</actors_names>
+    <votes>208,445</votes>
+  </Movie>
+  <Movie>
+    <title>Another Round</title>
+    <release_year>2020</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Thomas Vinterberg</director>
+    <country>Denmark</country>
+    <duration>117</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Mads Mikkelsen, Thomas Bo Larsen, Magnus Millang</actors_names>
+    <votes>206,926</votes>
+  </Movie>
+  <Movie>
+    <title>Licorice Pizza</title>
+    <release_year>2021</release_year>
+    <genre>Comedy, Drama, Romance</genre>
+    <director>Paul Thomas Anderson</director>
+    <country>USA</country>
+    <duration>133</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Alana Haim, Cooper Hoffman, Sean Penn</actors_names>
+    <votes>145,428</votes>
+  </Movie>
+  <Movie>
+    <title>King Richard</title>
+    <release_year>2021</release_year>
+    <genre>Biography, Drama, Sport</genre>
+    <director>Reinaldo Marcus Green</director>
+    <country>USA</country>
+    <duration>144</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Will Smith, Aunjanue Ellis-Taylor, Jon Bernthal</actors_names>
+    <votes>143,398</votes>
+  </Movie>
+  <Movie>
+    <title>Nightmare Alley</title>
+    <release_year>2021</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Guillermo del Toro</director>
+    <country>USA</country>
+    <duration>150</duration>
+    <imbd_rating>7.0</imbd_rating>
+    <actors_names>Bradley Cooper, Cate Blanchett, Toni Collette</actors_names>
+    <votes>172,427</votes>
+  </Movie>
+  <Movie>
+    <title>Nope</title>
+    <release_year>2022</release_year>
+    <genre>Horor, Mistery, Sci-Fi</genre>
+    <director>Jordan Peele</director>
+    <country>USA</country>
+    <duration>130</duration>
+    <imbd_rating>6.8</imbd_rating>
+    <actors_names>Daniel Kaluuya, Keke Palmer, Brandon Perea</actors_names>
+    <votes>293,198</votes>
+  </Movie>
+  <Movie>
+    <title>Aftersun</title>
+    <release_year>2022</release_year>
+    <genre>Drama</genre>
+    <director>Charlotte Wells</director>
+    <country>UK</country>
+    <duration>102</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Paul Mescal, Frankie Corio, Celia Rowlson-Hall</actors_names>
+    <votes>111,460</votes>
+  </Movie>
+  <Movie>
+    <title>Triangle of USAness</title>
+    <release_year>2022</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Ruben Östlund</director>
+    <country>Sweden</country>
+    <duration>147</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Decision to Leave</title>
+    <release_year>2022</release_year>
+    <genre>Crime, Drama, Mistery</genre>
+    <director>Park Chan-wook</director>
+    <country>South Korea</country>
+    <duration>138</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Park Hae-il, Tang Wei, Lee Jung-hyun</actors_names>
+    <votes>60,393</votes>
+  </Movie>
+  <Movie>
+    <title>The Banshees of Inisherin</title>
+    <release_year>2022</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Martin McDonagh</director>
+    <country>Ireland</country>
+    <duration>114</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Colin Farrell, Brendan Gleeson, Kerry Condon</actors_names>
+    <votes>271,880</votes>
+  </Movie>
+  <Movie>
+    <title>Black Panther</title>
+    <release_year>2018</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Ryan Coogler</director>
+    <country>USA</country>
+    <duration>134</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o</actors_names>
+    <votes>859,088</votes>
+  </Movie>
+  <Movie>
+    <title>47 Ronin</title>
+    <release_year>2013</release_year>
+    <genre>Action, Drama, Fantasy</genre>
+    <director>Carl Rinsch</director>
+    <country>USA</country>
+    <duration>128</duration>
+    <imbd_rating>6.2</imbd_rating>
+    <actors_names>Keanu Reeves, Hiroyuki Sanada, Kô Shibasaki</actors_names>
+    <votes>174,123</votes>
+  </Movie>
+  <Movie>
+    <title>King Arthur Legend of the Sword</title>
+    <release_year>2017</release_year>
+    <genre>Action, Adventure, Drama</genre>
+    <director>Guy Ritchie</director>
+    <country>USA</country>
+    <duration>126</duration>
+    <imbd_rating>6.7</imbd_rating>
+    <actors_names>Charlie Hunnam, Astrid Bergès-Frisbey, Jude Law</actors_names>
+    <votes>238,518</votes>
+  </Movie>
+  <Movie>
+    <title>The Promise</title>
+    <release_year>2016</release_year>
+    <genre>Drama, History</genre>
+    <director>Terry George</director>
+    <country>USA</country>
+    <duration>133</duration>
+    <imbd_rating>6.1</imbd_rating>
+    <actors_names>Oscar Isaac, Charlotte Le Bon, Christian Bale</actors_names>
+    <votes>179,058</votes>
+  </Movie>
+  <Movie>
+    <title>Inception</title>
+    <release_year>2010</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Christopher Nolan</director>
+    <country>USA</country>
+    <duration>148</duration>
+    <imbd_rating>8.8</imbd_rating>
+    <actors_names>Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page</actors_names>
+    <votes>2,658,716</votes>
+  </Movie>
+  <Movie>
+    <title>The Grand Budapest Hotel</title>
+    <release_year>2014</release_year>
+    <genre>Adventure, Comedy, Crime</genre>
+    <director>Wes Anderson</director>
+    <country>USA</country>
+    <duration>99</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Ralph Fiennes, F. Murray Abraham, Mathieu Amalric</actors_names>
+    <votes>915,710</votes>
+  </Movie>
+  <Movie>
+    <title>Mad Max Fury Road</title>
+    <release_year>2015</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>George Miller</director>
+    <country>Australia</country>
+    <duration>120</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Tom Hardy, Charlize Theron, Nicholas Hoult</actors_names>
+    <votes>1,151,388</votes>
+  </Movie>
+  <Movie>
+    <title>La La Land</title>
+    <release_year>2016</release_year>
+    <genre>Comedy, Drama, Music</genre>
+    <director>Damien Chazelle</director>
+    <country>USA</country>
+    <duration>128</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Ryan Gosling, Emma Stone, Rosemarie DeWitt</actors_names>
+    <votes>707,453</votes>
+  </Movie>
+  <Movie>
+    <title>Get Out</title>
+    <release_year>2017</release_year>
+    <genre>Horror, Mystery, Thriller</genre>
+    <director>Jordan Peele</director>
+    <country>USA</country>
+    <duration>104</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Daniel Kaluuya, Allison Williams, Bradley Whitford</actors_names>
+    <votes>740,263</votes>
+  </Movie>
+  <Movie>
+    <title>Parasite</title>
+    <release_year>2019</release_year>
+    <genre>Comedy, Drama, Thriller</genre>
+    <director>Bong Joon Ho</director>
+    <country>South Korea</country>
+    <duration>132</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong</actors_names>
+    <votes>1,019,758</votes>
+  </Movie>
+  <Movie>
+    <title>The Shape of Water</title>
+    <release_year>2017</release_year>
+    <genre>Drama, Fantasy, Romance</genre>
+    <director>Guillermo del Toro</director>
+    <country>USA</country>
+    <duration>123</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Sally Hawkins, Octavia Spencer, Michael Shannon</actors_names>
+    <votes>455,357</votes>
+  </Movie>
+  <Movie>
+    <title>The King's Speech</title>
+    <release_year>2010</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Tom Hooper</director>
+    <country>UK</country>
+    <duration>118</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Colin Firth, Geoffrey Rush, Helena Bonham Carter</actors_names>
+    <votes>717,579</votes>
+  </Movie>
+  <Movie>
+    <title>Drive</title>
+    <release_year>2011</release_year>
+    <genre>Action, Crime, Drama</genre>
+    <director>Nicolas Winding Refn</director>
+    <country>USA</country>
+    <duration>100</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Ryan Gosling, Carey Mulligan, Bryan Cranston</actors_names>
+    <votes>728,348</votes>
+  </Movie>
+  <Movie>
+    <title>The Intouchables</title>
+    <release_year>2011</release_year>
+    <genre>Biography, Comedy, Drama</genre>
+    <director>Olivier Nakache, Éric Toledano</director>
+    <country>France</country>
+    <duration>112</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>François Cluzet, Omar Sy, Anne Le Ny</actors_names>
+    <votes>963,528</votes>
+  </Movie>
+  <Movie>
+    <title>Life of Pi</title>
+    <release_year>2012</release_year>
+    <genre>Adventure, Drama, Fantasy</genre>
+    <director>Ang Lee</director>
+    <country>USA</country>
+    <duration>127</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Suraj Sharma, Irrfan Khan, Adil Hussain</actors_names>
+    <votes>679,650</votes>
+  </Movie>
+  <Movie>
+    <title>The Artist</title>
+    <release_year>2011</release_year>
+    <genre>Comedy, Drama, Romance</genre>
+    <director>Michel Hazanavicius</director>
+    <country>France</country>
+    <duration>100</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Jean Dujardin, Bérénice Bejo, John Goodman</actors_names>
+    <votes>250,999</votes>
+  </Movie>
+  <Movie>
+    <title>Birdman</title>
+    <release_year>2014</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Alejandro González Iñárritu</director>
+    <country>USA</country>
+    <duration>119</duration>
+    <imbd_rating>5.1</imbd_rating>
+    <actors_names>Caroline Christl Long</actors_names>
+    <votes>174</votes>
+  </Movie>
+  <Movie>
+    <title>The Martian</title>
+    <release_year>2015</release_year>
+    <genre>Adventure, Drama, Sci-Fi</genre>
+    <director>Ridley Scott</director>
+    <country>USA</country>
+    <duration>144</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Matt Damon, Jessica Chastain, Kristen Wiig</actors_names>
+    <votes>956,193</votes>
+  </Movie>
+  <Movie>
+    <title>Inside Out</title>
+    <release_year>2015</release_year>
+    <genre>Animation, Adventure, Comedy</genre>
+    <director>Pete Docter, Ronnie del Carmen</director>
+    <country>USA</country>
+    <duration>95</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Amy Poehler, Bill Hader, Lewis Black</actors_names>
+    <votes>853,260</votes>
+  </Movie>
+  <Movie>
+    <title>The Imitation Game</title>
+    <release_year>2014</release_year>
+    <genre>Biography, Drama, Thriller</genre>
+    <director>Morten Tyldum</director>
+    <country>UK</country>
+    <duration>113</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Benedict Cumberbatch, Keira Knightley, Matthew Goode</actors_names>
+    <votes>842,688</votes>
+  </Movie>
+  <Movie>
+    <title>Slumdog Millionaire</title>
+    <release_year>2008</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Danny Boyle</director>
+    <country>UK</country>
+    <duration>120</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Dev Patel, Freida Pinto, Saurabh Shukla</actors_names>
+    <votes>890,142</votes>
+  </Movie>
+  <Movie>
+    <title>The Help</title>
+    <release_year>2011</release_year>
+    <genre>Drama</genre>
+    <director>Tate Taylor</director>
+    <country>USA</country>
+    <duration>146</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Viola Davis, Emma Stone, Octavia Spencer</actors_names>
+    <votes>505,832</votes>
+  </Movie>
+  <Movie>
+    <title>Silver Linings Playbook</title>
+    <release_year>2012</release_year>
+    <genre>Comedy, Drama, Romance</genre>
+    <director>David O. Russell</director>
+    <country>USA</country>
+    <duration>122</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Bradley Cooper, Jennifer Lawrence, Robert De Niro</actors_names>
+    <votes>754,207</votes>
+  </Movie>
+  <Movie>
+    <title>Dallas Buyers Club</title>
+    <release_year>2013</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Jean-Marc Vallée</director>
+    <country>USA</country>
+    <duration>117</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Matthew McConaughey, Jennifer Garner, Jared Leto</actors_names>
+    <votes>532,298</votes>
+  </Movie>
+  <Movie>
+    <title>The Theory of Everything</title>
+    <release_year>2014</release_year>
+    <genre>Biography, Drama, Romance</genre>
+    <director>James Marsh</director>
+    <country>UK</country>
+    <duration>123</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Eddie Redmayne, Felicity Jones, Tom Prior</actors_names>
+    <votes>491,328</votes>
+  </Movie>
+  <Movie>
+    <title>Bridge of Spies</title>
+    <release_year>2015</release_year>
+    <genre>Drama, History, Thriller</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>142</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Tom Hanks, Mark Rylance, Alan Alda</actors_names>
+    <votes>333,718</votes>
+  </Movie>
+  <Movie>
+    <title>Hereditary</title>
+    <release_year>2018</release_year>
+    <genre>Drama, Horror, Mystery</genre>
+    <director>Ari Aster</director>
+    <country>USA</country>
+    <duration>127</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Toni Collette, Milly Shapiro, Gabriel Byrne</actors_names>
+    <votes>404,062</votes>
+  </Movie>
+  <Movie>
+    <title>Blade Runner 2049</title>
+    <release_year>2017</release_year>
+    <genre>Action, Drama, Sci-Fi</genre>
+    <director>Denis Villeneuve</director>
+    <country>USA</country>
+    <duration>164</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Harrison Ford, Ryan Gosling, Ana de Armas</actors_names>
+    <votes>695,699</votes>
+  </Movie>
+  <Movie>
+    <title>The Favourite</title>
+    <release_year>2018</release_year>
+    <genre>Biography, Comedy, Drama</genre>
+    <director>Yorgos Lanthimos</director>
+    <country>UK</country>
+    <duration>119</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Olivia Colman, Emma Stone, Rachel Weisz</actors_names>
+    <votes>244,564</votes>
+  </Movie>
+  <Movie>
+    <title>Three Billboards Outside Ebbing, Missouri</title>
+    <release_year>2017</release_year>
+    <genre>Comedy, Crime, Drama</genre>
+    <director>Martin McDonagh</director>
+    <country>USA</country>
+    <duration>115</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Frances McDormand, Woody Harrelson, Sam Rockwell</actors_names>
+    <votes>574,280</votes>
+  </Movie>
+  <Movie>
+    <title>The Adventures of Rocky &amp; Bullwinkle</title>
+    <release_year>2000</release_year>
+    <genre>Animation, Adventure, Comedy</genre>
+    <director>Des McAnuff</director>
+    <country>USA</country>
+    <duration>92</duration>
+    <imbd_rating>4.3</imbd_rating>
+    <actors_names>Robert De Niro, Rene Russo, Piper Perabo</actors_names>
+    <votes>21,486</votes>
+  </Movie>
+  <Movie>
+    <title>Cutthroat Island</title>
+    <release_year>1995</release_year>
+    <genre>Action, Adventure, Comedy</genre>
+    <director>Renny Harlin</director>
+    <country>USA</country>
+    <duration>124</duration>
+    <imbd_rating>5.7</imbd_rating>
+    <actors_names>Geena Davis, Matthew Modine, Frank Langella</actors_names>
+    <votes>31,478</votes>
+  </Movie>
+  <Movie>
+    <title>Memento</title>
+    <release_year>2000</release_year>
+    <genre>Mystery, Thriller</genre>
+    <director>Christopher Nolan</director>
+    <country>USA</country>
+    <duration>113</duration>
+    <imbd_rating>8.4</imbd_rating>
+    <actors_names>Guy Pearce, Carrie-Anne Moss, Joe Pantoliano</actors_names>
+    <votes>1,359,987</votes>
+  </Movie>
+  <Movie>
+    <title>Amélie</title>
+    <release_year>2001</release_year>
+    <genre>Comedy, Romance</genre>
+    <director>Jean-Pierre Jeunet</director>
+    <country>France</country>
+    <duration>122</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Audrey Tautou, Mathieu Kassovitz, Rufus</actors_names>
+    <votes>810,995</votes>
+  </Movie>
+  <Movie>
+    <title>City of God</title>
+    <release_year>2002</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Fernando Meirelles, Kátia Lund</director>
+    <country>Brazil</country>
+    <duration>130</duration>
+    <imbd_rating>8.6</imbd_rating>
+    <actors_names>Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele</actors_names>
+    <votes>827,831</votes>
+  </Movie>
+  <Movie>
+    <title>Lost in Translation</title>
+    <release_year>2003</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Sofia Coppola</director>
+    <country>USA</country>
+    <duration>102</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Bill Murray, Scarlett Johansson, Giovanni Ribisi</actors_names>
+    <votes>507,784</votes>
+  </Movie>
+  <Movie>
+    <title>Eternal Sunshine of the Spotless Mind</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Romance, Sci-Fi</genre>
+    <director>Michel Gondry</director>
+    <country>USA</country>
+    <duration>108</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Jim Carrey, Kate Winslet, Tom Wilkinson</actors_names>
+    <votes>1,121,026</votes>
+  </Movie>
+  <Movie>
+    <title>Pan's Labyrinth</title>
+    <release_year>2006</release_year>
+    <genre>Drama, Fantasy, War</genre>
+    <director>Guillermo del Toro</director>
+    <country>Mexico</country>
+    <duration>118</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Ivana Baquero, Ariadna Gil, Sergi López</actors_names>
+    <votes>717,176</votes>
+  </Movie>
+  <Movie>
+    <title>No Country for Old Men</title>
+    <release_year>2007</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Ethan Coen, Joel Coen</director>
+    <country>USA</country>
+    <duration>122</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Tommy Lee Jones, Javier Bardem, Josh Brolin</actors_names>
+    <votes>1,096,759</votes>
+  </Movie>
+  <Movie>
+    <title>District 9</title>
+    <release_year>2009</release_year>
+    <genre>Action, Sci-Fi, Thriller</genre>
+    <director>Neill Blomkamp</director>
+    <country>South Africa</country>
+    <duration>112</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Sharlto Copley, David James, Jason Cope</actors_names>
+    <votes>730,967</votes>
+  </Movie>
+  <Movie>
+    <title>Gladiator</title>
+    <release_year>2000</release_year>
+    <genre>Action, Adventure, Drama</genre>
+    <director>Ridley Scott</director>
+    <country>USA</country>
+    <duration>155</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Russell Crowe, Joaquin Phoenix, Connie Nielsen</actors_names>
+    <votes>1,728,425</votes>
+  </Movie>
+  <Movie>
+    <title>Requiem for a Dream</title>
+    <release_year>2000</release_year>
+    <genre>Drama</genre>
+    <director>Darren Aronofsky</director>
+    <country>USA</country>
+    <duration>102</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Ellen Burstyn, Jared Leto, Jennifer Connelly</actors_names>
+    <votes>931,632</votes>
+  </Movie>
+  <Movie>
+    <title>Donnie Darko</title>
+    <release_year>2001</release_year>
+    <genre>Drama, Mystery, Sci-Fi</genre>
+    <director>Richard Kelly</director>
+    <country>USA</country>
+    <duration>113</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Jake Gyllenhaal, Jena Malone, Mary McDonnell</actors_names>
+    <votes>873,557</votes>
+  </Movie>
+  <Movie>
+    <title>The Pianist</title>
+    <release_year>2002</release_year>
+    <genre>Biography, Drama, Music</genre>
+    <director>Roman Polanski</director>
+    <country>France</country>
+    <duration>150</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Adrien Brody, Thomas Kretschmann, Frank Finlay</actors_names>
+    <votes>951,213</votes>
+  </Movie>
+  <Movie>
+    <title>Oldboy</title>
+    <release_year>2003</release_year>
+    <genre>Action, Drama, Mystery</genre>
+    <director>Park Chan-wook</director>
+    <country>South Korea</country>
+    <duration>120</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong</actors_names>
+    <votes>665,427</votes>
+  </Movie>
+  <Movie>
+    <title>Shaun of the Dead</title>
+    <release_year>2004</release_year>
+    <genre>Comedy, Horror</genre>
+    <director>Edgar Wright</director>
+    <country>UK</country>
+    <duration>99</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Simon Pegg, Nick Frost, Kate Ashfield</actors_names>
+    <votes>615,526</votes>
+  </Movie>
+  <Movie>
+    <title>Sin City</title>
+    <release_year>2005</release_year>
+    <genre>Crime, Thriller</genre>
+    <director>Frank Miller, Robert Rodriguez, Quentin Tarantino</director>
+    <country>USA</country>
+    <duration>124</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Mickey Rourke, Clive Owen, Bruce Willis</actors_names>
+    <votes>801,781</votes>
+  </Movie>
+  <Movie>
+    <title>Children of Men</title>
+    <release_year>2006</release_year>
+    <genre>Action, Drama, Sci-Fi</genre>
+    <director>Alfonso Cuarón</director>
+    <country>UK</country>
+    <duration>109</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Julianne Moore, Clive Owen, Chiwetel Ejiofor</actors_names>
+    <votes>542,742</votes>
+  </Movie>
+  <Movie>
+    <title>Into the Wild</title>
+    <release_year>2007</release_year>
+    <genre>Adventure, Biography, Drama</genre>
+    <director>Sean Penn</director>
+    <country>USA</country>
+    <duration>148</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Emile Hirsch, Vince Vaughn, Catherine Keener</actors_names>
+    <votes>673,771</votes>
+  </Movie>
+  <Movie>
+    <title>The Hurt Locker</title>
+    <release_year>2008</release_year>
+    <genre>Drama, Thriller, War</genre>
+    <director>Kathryn Bigelow</director>
+    <country>USA</country>
+    <duration>131</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Jeremy Renner, Anthony Mackie, Brian Geraghty</actors_names>
+    <votes>481,794</votes>
+  </Movie>
+  <Movie>
+    <title>The Departed</title>
+    <release_year>2006</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Martin Scorsese</director>
+    <country>USA</country>
+    <duration>151</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Leonardo DiCaprio, Matt Damon, Jack Nicholson</actors_names>
+    <votes>1,475,168</votes>
+  </Movie>
+  <Movie>
+    <title>The Prestige</title>
+    <release_year>2006</release_year>
+    <genre>Drama, Mystery, Sci-Fi</genre>
+    <director>Christopher Nolan</director>
+    <country>USA</country>
+    <duration>130</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Christian Bale, Hugh Jackman, Scarlett Johansson</actors_names>
+    <votes>1,493,848</votes>
+  </Movie>
+  <Movie>
+    <title>The Lives of Others</title>
+    <release_year>2006</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Florian Henckel von Donnersmarck</director>
+    <country>Germany</country>
+    <duration>137</duration>
+    <imbd_rating>8.4</imbd_rating>
+    <actors_names>Ulrich Mühe, Martina Gedeck, Sebastian Koch</actors_names>
+    <votes>422,808</votes>
+  </Movie>
+  <Movie>
+    <title>Little Miss Sunshine</title>
+    <release_year>2006</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Jonathan Dayton, Valerie Faris</director>
+    <country>USA</country>
+    <duration>101</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Steve Carell, Toni Collette, Greg Kinnear</actors_names>
+    <votes>529,633</votes>
+  </Movie>
+  <Movie>
+    <title>Up</title>
+    <release_year>2009</release_year>
+    <genre>Animation, Adventure, Comedy</genre>
+    <director>Pete Docter, Bob Peterson</director>
+    <country>USA</country>
+    <duration>96</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Edward Asner, Jordan Nagai, John Ratzenberger</actors_names>
+    <votes>1,166,741</votes>
+  </Movie>
+  <Movie>
+    <title>The Orphanage</title>
+    <release_year>2007</release_year>
+    <genre>Drama, Horor, Misterija</genre>
+    <director>J.A. Bayona</director>
+    <country>Spain</country>
+    <duration>105</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Belén Rueda, Fernando Cayo, Roger Príncep</actors_names>
+    <votes>166,711</votes>
+  </Movie>
+  <Movie>
+    <title>The Descent</title>
+    <release_year>2005</release_year>
+    <genre>Adventure, Horor, Thriller</genre>
+    <director>Neil Marshall</director>
+    <country>UK</country>
+    <duration>99</duration>
+    <imbd_rating>7.2</imbd_rating>
+    <actors_names>Shauna Macdonald, Natalie Mendoza, Alex Reid</actors_names>
+    <votes>256,425</votes>
+  </Movie>
+  <Movie>
+    <title>In Bruges</title>
+    <release_year>2008</release_year>
+    <genre>Komedija, Krimi, Drama</genre>
+    <director>Martin McDonagh</director>
+    <country>UK</country>
+    <duration>107</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Colin Farrell, Brendan Gleeson, Ciarán Hinds</actors_names>
+    <votes>472,338</votes>
+  </Movie>
+  <Movie>
+    <title>The Fall</title>
+    <release_year>2006</release_year>
+    <genre>Adventure, Drama, Fantasy</genre>
+    <director>Tarsem Singh</director>
+    <country>USA</country>
+    <duration>117</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Lee Pace, Catinca Untaru, Justine Waddell</actors_names>
+    <votes>120,591</votes>
+  </Movie>
+  <Movie>
+    <title>Titanic</title>
+    <release_year>1997</release_year>
+    <genre>Drama, Romance</genre>
+    <director>James Cameron</director>
+    <country>USA</country>
+    <duration>195</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Leonardo DiCaprio, Kate Winslet, Billy Zane</actors_names>
+    <votes>1,322,762</votes>
+  </Movie>
+  <Movie>
+    <title>Jurassic Park</title>
+    <release_year>1993</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>127</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Sam Neill, Laura Dern, Jeff Goldblum</actors_names>
+    <votes>1,104,676</votes>
+  </Movie>
+  <Movie>
+    <title>Star Wars Episode I - The Phantom Menace</title>
+    <release_year>1999</release_year>
+    <genre>Action, Adventure, Fantasy</genre>
+    <director>George Lucas</director>
+    <country>USA</country>
+    <duration>136</duration>
+    <imbd_rating>6.5</imbd_rating>
+    <actors_names>Ewan McGregor, Liam Neeson, Natalie Portman</actors_names>
+    <votes>880,286</votes>
+  </Movie>
+  <Movie>
+    <title>Independence Day</title>
+    <release_year>1996</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Roland Emmerich</director>
+    <country>USA</country>
+    <duration>145</duration>
+    <imbd_rating>7.0</imbd_rating>
+    <actors_names>Will Smith, Bill Pullman, Jeff Goldblum</actors_names>
+    <votes>620,895</votes>
+  </Movie>
+  <Movie>
+    <title>The Sixth Sense</title>
+    <release_year>1999</release_year>
+    <genre>Drama, Mystery, Thriller</genre>
+    <director>M. Night Shyamalan</director>
+    <country>USA</country>
+    <duration>107</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Bruce Willis, Haley Joel Osment, Toni Collette</actors_names>
+    <votes>1,087,404</votes>
+  </Movie>
+  <Movie>
+    <title>Armageddon</title>
+    <release_year>1998</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Michael Bay</director>
+    <country>USA</country>
+    <duration>151</duration>
+    <imbd_rating>6.7</imbd_rating>
+    <actors_names>Bruce Willis, Billy Bob Thornton, Ben Affleck</actors_names>
+    <votes>461,958</votes>
+  </Movie>
+  <Movie>
+    <title>Men in Black</title>
+    <release_year>1997</release_year>
+    <genre>Action, Adventure, Comedy</genre>
+    <director>Barry Sonnenfeld</director>
+    <country>USA</country>
+    <duration>98</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Tommy Lee Jones, Will Smith, Linda Fiorentino</actors_names>
+    <votes>634,436</votes>
+  </Movie>
+  <Movie>
+    <title>Forrest Gump</title>
+    <release_year>1994</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Robert Zemeckis</director>
+    <country>USA</country>
+    <duration>142</duration>
+    <imbd_rating>8.8</imbd_rating>
+    <actors_names>Tom Hanks, Robin Wright, Gary Sinise</actors_names>
+    <votes>2,342,884</votes>
+  </Movie>
+  <Movie>
+    <title>The 13th Warrior</title>
+    <release_year>1999</release_year>
+    <genre>Action, Adventure, History</genre>
+    <director>John McTiernan</director>
+    <country>USA</country>
+    <duration>102</duration>
+    <imbd_rating>6.6</imbd_rating>
+    <actors_names>Antonio Banderas, Diane Venora, Dennis Storhøi</actors_names>
+    <votes>135,295</votes>
+  </Movie>
+  <Movie>
+    <title>Hudson Hawk</title>
+    <release_year>1991</release_year>
+    <genre>Action, Adventure, Comedy</genre>
+    <director>Michael Lehmann</director>
+    <country>USA</country>
+    <duration>100</duration>
+    <imbd_rating>5.7</imbd_rating>
+    <actors_names>Bruce Willis, Danny Aiello, Andie MacDowell</actors_names>
+    <votes>61,334</votes>
+  </Movie>
+  <Movie>
+    <title>Waterworld</title>
+    <release_year>1995</release_year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+    <director>Kevin Reynolds</director>
+    <country>USA</country>
+    <duration>135</duration>
+    <imbd_rating>6.3</imbd_rating>
+    <actors_names>Kevin Costner, Jeanne Tripplehorn, Dennis Hopper</actors_names>
+    <votes>216,183</votes>
+  </Movie>
+  <Movie>
+    <title>The Postman</title>
+    <release_year>1997</release_year>
+    <genre>Action, Adventure, Drama</genre>
+    <director>Kevin Costner</director>
+    <country>USA</country>
+    <duration>177</duration>
+    <imbd_rating>6.1</imbd_rating>
+    <actors_names>Kevin Costner, Will Patton, Larenz Tate</actors_names>
+    <votes>80,700</votes>
+  </Movie>
+  <Movie>
+    <title>Showgirls</title>
+    <release_year>1995</release_year>
+    <genre>Drama</genre>
+    <director>Paul Verhoeven</director>
+    <country>USA</country>
+    <duration>128</duration>
+    <imbd_rating>5.1</imbd_rating>
+    <actors_names>Elizabeth Berkley, Kyle MacLachlan, Gina Gershon</actors_names>
+    <votes>77,357</votes>
+  </Movie>
+  <Movie>
+    <title>The Scarlet Letter</title>
+    <release_year>1995</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Roland Joffé</director>
+    <country>USA</country>
+    <duration>135</duration>
+    <imbd_rating>5.3</imbd_rating>
+    <actors_names>Demi Moore, Gary Oldman, Robert Duvall</actors_names>
+    <votes>16,679</votes>
+  </Movie>
+  <Movie>
+    <title>Town &amp; Country</title>
+    <release_year>2001</release_year>
+    <genre>Comedy, Romance</genre>
+    <director>Peter Chelsom</director>
+    <country>USA</country>
+    <duration>104</duration>
+    <imbd_rating>4.5</imbd_rating>
+    <actors_names>Warren Beatty, Diane Keaton, Nastassja Kinski</actors_names>
+    <votes>5,347</votes>
+  </Movie>
+  <Movie>
+    <title>The Matrix</title>
+    <release_year>1999</release_year>
+    <genre>Action, Sci-Fi</genre>
+    <director>Lana Wachowski, Lilly Wachowski</director>
+    <country>USA</country>
+    <duration>136</duration>
+    <imbd_rating>8.7</imbd_rating>
+    <actors_names>Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss</actors_names>
+    <votes>2,124,695</votes>
+  </Movie>
+  <Movie>
+    <title>Schindler's List</title>
+    <release_year>1993</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>195</duration>
+    <imbd_rating>9.0</imbd_rating>
+    <actors_names>Liam Neeson, Ralph Fiennes, Ben Kingsley</actors_names>
+    <votes>1,501,081</votes>
+  </Movie>
+  <Movie>
+    <title>Goodfellas</title>
+    <release_year>1990</release_year>
+    <genre>Biography, Crime, Drama</genre>
+    <director>Martin Scorsese</director>
+    <country>USA</country>
+    <duration>146</duration>
+    <imbd_rating>8.7</imbd_rating>
+    <actors_names>Robert De Niro, Ray Liotta, Joe Pesci</actors_names>
+    <votes>1,307,085</votes>
+  </Movie>
+  <Movie>
+    <title>Fight Club</title>
+    <release_year>1999</release_year>
+    <genre>Drama</genre>
+    <director>David Fincher</director>
+    <country>USA</country>
+    <duration>139</duration>
+    <imbd_rating>8.8</imbd_rating>
+    <actors_names>Brad Pitt, Edward Norton, Meat Loaf</actors_names>
+    <votes>2,409,361</votes>
+  </Movie>
+  <Movie>
+    <title>The Silence of the Lambs</title>
+    <release_year>1991</release_year>
+    <genre>Crime, Drama, Thriller</genre>
+    <director>Jonathan Demme</director>
+    <country>USA</country>
+    <duration>118</duration>
+    <imbd_rating>8.6</imbd_rating>
+    <actors_names>Jodie Foster, Anthony Hopkins, Scott Glenn</actors_names>
+    <votes>1,607,965</votes>
+  </Movie>
+  <Movie>
+    <title>Pulp Fiction</title>
+    <release_year>1994</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Quentin Tarantino</director>
+    <country>USA</country>
+    <duration>154</duration>
+    <imbd_rating>8.9</imbd_rating>
+    <actors_names>John Travolta, Uma Thurman, Samuel L. Jackson</actors_names>
+    <votes>2,289,917</votes>
+  </Movie>
+  <Movie>
+    <title>Saving Private Ryan</title>
+    <release_year>1998</release_year>
+    <genre>Drama, War</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>169</duration>
+    <imbd_rating>8.6</imbd_rating>
+    <actors_names>Tom Hanks, Matt Damon, Tom Sizemore</actors_names>
+    <votes>1,547,314</votes>
+  </Movie>
+  <Movie>
+    <title>Braveheart</title>
+    <release_year>1995</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Mel Gibson</director>
+    <country>USA</country>
+    <duration>178</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Mel Gibson, Sophie Marceau, Patrick McGoohan</actors_names>
+    <votes>1,116,147</votes>
+  </Movie>
+  <Movie>
+    <title>Se7en</title>
+    <release_year>1995</release_year>
+    <genre>Crime, Drama, Mystery</genre>
+    <director>David Fincher</director>
+    <country>USA</country>
+    <duration>127</duration>
+    <imbd_rating>8.6</imbd_rating>
+    <actors_names>Morgan Freeman, Brad Pitt, Kevin Spacey</actors_names>
+    <votes>1,872,142</votes>
+  </Movie>
+  <Movie>
+    <title>Terminator 2 Judgment Day</title>
+    <release_year>1991</release_year>
+    <genre>Action, Sci-Fi</genre>
+    <director>James Cameron</director>
+    <country>USA</country>
+    <duration>137</duration>
+    <imbd_rating>8.6</imbd_rating>
+    <actors_names>Arnold Schwarzenegger, Linda Hamilton, Edward Furlong</actors_names>
+    <votes>1,221,807</votes>
+  </Movie>
+  <Movie>
+    <title>Lock, Stock and Two Smoking Barrels</title>
+    <release_year>1998</release_year>
+    <genre>Action, Comedy, Crime</genre>
+    <director>Guy Ritchie</director>
+    <country>UK</country>
+    <duration>107</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Jason Flemyng, Dexter Fletcher, Nick Moran</actors_names>
+    <votes>630,827</votes>
+  </Movie>
+  <Movie>
+    <title>Snatch</title>
+    <release_year>2000</release_year>
+    <genre>Comedy, Crime</genre>
+    <director>Guy Ritchie</director>
+    <country>UK</country>
+    <duration>104</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Jason Statham, Brad Pitt, Stephen Graham</actors_names>
+    <votes>937,204</votes>
+  </Movie>
+  <Movie>
+    <title>The Big Lebowski</title>
+    <release_year>1998</release_year>
+    <genre>Comedy, Crime</genre>
+    <director>Joel Coen, Ethan Coen</director>
+    <country>USA</country>
+    <duration>117</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Jeff Bridges, John Goodman, Julianne Moore</actors_names>
+    <votes>882,309</votes>
+  </Movie>
+  <Movie>
+    <title>The Usual Suspects</title>
+    <release_year>1995</release_year>
+    <genre>Crime, Mystery, Thriller</genre>
+    <director>Bryan Singer</director>
+    <country>USA</country>
+    <duration>106</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Kevin Spacey, Gabriel Byrne, Chazz Palminteri</actors_names>
+    <votes>1,174,072</votes>
+  </Movie>
+  <Movie>
+    <title>L.A. Confidential</title>
+    <release_year>1997</release_year>
+    <genre>Crime, Drama, Mystery</genre>
+    <director>Curtis Hanson</director>
+    <country>USA</country>
+    <duration>138</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Kevin Spacey, Russell Crowe, Guy Pearce</actors_names>
+    <votes>636,155</votes>
+  </Movie>
+  <Movie>
+    <title>The Shawshank Redemption</title>
+    <release_year>1994</release_year>
+    <genre>Drama</genre>
+    <director>Frank Darabont</director>
+    <country>USA</country>
+    <duration>142</duration>
+    <imbd_rating>9.3</imbd_rating>
+    <actors_names>Tim Robbins, Morgan Freeman, Bob Gunton</actors_names>
+    <votes>3,015,278</votes>
+  </Movie>
+  <Movie>
+    <title>Citizen Kane</title>
+    <release_year>1941</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Orson Welles</director>
+    <country>USA</country>
+    <duration>119</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Orson Welles, Joseph Cotten, Dorothy Comingore</actors_names>
+    <votes>477,223</votes>
+  </Movie>
+  <Movie>
+    <title>Casablanca</title>
+    <release_year>1942</release_year>
+    <genre>Drama, Romance, War</genre>
+    <director>Michael Curtiz</director>
+    <country>USA</country>
+    <duration>102</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Humphrey Bogart, Ingrid Bergman, Paul Henreid</actors_names>
+    <votes>625,036</votes>
+  </Movie>
+  <Movie>
+    <title>12 Angry Men</title>
+    <release_year>1957</release_year>
+    <genre>Drama</genre>
+    <director>Sidney Lumet</director>
+    <country>USA</country>
+    <duration>96</duration>
+    <imbd_rating>9.0</imbd_rating>
+    <actors_names>Henry Fonda, Lee J. Cobb, Martin Balsam</actors_names>
+    <votes>911,567</votes>
+  </Movie>
+  <Movie>
+    <title>Psycho</title>
+    <release_year>1960</release_year>
+    <genre>Horror, Mystery, Thriller</genre>
+    <director>Alfred Hitchcock</director>
+    <country>USA</country>
+    <duration>109</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Anthony Perkins, Janet Leigh, Vera Miles</actors_names>
+    <votes>741,743</votes>
+  </Movie>
+  <Movie>
+    <title>The Godfather</title>
+    <release_year>1972</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Francis Ford Coppola</director>
+    <country>USA</country>
+    <duration>175</duration>
+    <imbd_rating>9.2</imbd_rating>
+    <actors_names>Marlon Brando, Al Pacino, James Caan</actors_names>
+    <votes>2,090,520</votes>
+  </Movie>
+  <Movie>
+    <title>Star Wars</title>
+    <release_year>1977</release_year>
+    <genre>Action, Adventure, Fantasy</genre>
+    <director>George Lucas</director>
+    <country>USA</country>
+    <duration>121</duration>
+    <imbd_rating>8.6</imbd_rating>
+    <actors_names>Mark Hamill, Harrison Ford, Carrie Fisher</actors_names>
+    <votes>1,493,579</votes>
+  </Movie>
+  <Movie>
+    <title>E.T. the Extra-Terrestrial</title>
+    <release_year>1982</release_year>
+    <genre>Family, Sci-Fi</genre>
+    <director>Steven Spielberg</director>
+    <country>USA</country>
+    <duration>115</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Henry Thomas, Drew Barrymore, Peter Coyote</actors_names>
+    <votes>449,151</votes>
+  </Movie>
+  <Movie>
+    <title>The Lord of the Rings The Fellowship of the Ring</title>
+    <release_year>2001</release_year>
+    <genre>Adventure, Drama, Fantasy</genre>
+    <director>Peter Jackson</director>
+    <country>New Zealand</country>
+    <duration>178</duration>
+    <imbd_rating>8.9</imbd_rating>
+    <actors_names>Elijah Wood, Ian McKellen, Orlando Bloom</actors_names>
+    <votes>2,082,432</votes>
+  </Movie>
+  <Movie>
+    <title>Drive My Car</title>
+    <release_year>2021</release_year>
+    <genre>Drama</genre>
+    <director>Ryûsuke Hamaguchi</director>
+    <country>Japan</country>
+    <duration>179</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Hidetoshi Nishijima, Tôko Miura, Reika Kirishima</actors_names>
+    <votes>71,528</votes>
+  </Movie>
+  <Movie>
+    <title>Spencer</title>
+    <release_year>2021</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Pablo Larraín</director>
+    <country>UK</country>
+    <duration>117</duration>
+    <imbd_rating>6.5</imbd_rating>
+    <actors_names>Kristen Stewart, Timothy Spall, Sally Hawkins</actors_names>
+    <votes>78,946</votes>
+  </Movie>
+  <Movie>
+    <title>Life Is Beautiful</title>
+    <release_year>1997</release_year>
+    <genre>Comedy-Drama</genre>
+    <director>Roberto Benigni</director>
+    <country>Italy</country>
+    <duration>116</duration>
+    <imbd_rating>8.6</imbd_rating>
+    <actors_names>Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini</actors_names>
+    <votes>768,010</votes>
+  </Movie>
+  <Movie>
+    <title>Cinema Paradiso</title>
+    <release_year>1988</release_year>
+    <genre>Drama</genre>
+    <director>Giuseppe Tornatore</director>
+    <country>Italy</country>
+    <duration>155</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Philippe Noiret, Enzo Cannavale, Antonella Attili</actors_names>
+    <votes>296,860</votes>
+  </Movie>
+  <Movie>
+    <title>Blue Is the Warmest Color</title>
+    <release_year>2013</release_year>
+    <genre>Romantic Drama</genre>
+    <director>Abdellatif Kechiche</director>
+    <country>France</country>
+    <duration>180</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Run Lola Run</title>
+    <release_year>1998</release_year>
+    <genre>Thriller</genre>
+    <director>Tom Tykwer</director>
+    <country>Germany</country>
+    <duration>80</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Franka Potente, Moritz Bleibtreu, Herbert Knaup</actors_names>
+    <votes>212,261</votes>
+  </Movie>
+  <Movie>
+    <title>Dogtooth</title>
+    <release_year>2009</release_year>
+    <genre>Drama</genre>
+    <director>Yorgos Lanthimos</director>
+    <country>Greece</country>
+    <duration>94</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Christos Stergioglou, Michele Valley, Angeliki Papoulia</actors_names>
+    <votes>115,606</votes>
+  </Movie>
+  <Movie>
+    <title>Melancholia</title>
+    <release_year>2011</release_year>
+    <genre>Drama, Sci-Fi</genre>
+    <director>Lars von Trier</director>
+    <country>Denmark</country>
+    <duration>135</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland</actors_names>
+    <votes>200,706</votes>
+  </Movie>
+  <Movie>
+    <title>Underground</title>
+    <release_year>1995</release_year>
+    <genre>Comedy-Drama</genre>
+    <director>Emir Kusturica</director>
+    <country>Serbia</country>
+    <duration>170</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Predrag 'Miki' Manojlovic, Lazar Ristovski, Mirjana Jokovic</actors_names>
+    <votes>62,306</votes>
+  </Movie>
+  <Movie>
+    <title>The Great Beauty</title>
+    <release_year>2013</release_year>
+    <genre>Drama</genre>
+    <director>Paolo Sorrentino</director>
+    <country>Italy</country>
+    <duration>141</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Toni Servillo, Carlo Verdone, Sabrina Ferilli</actors_names>
+    <votes>100,081</votes>
+  </Movie>
+  <Movie>
+    <title>Ida</title>
+    <release_year>2013</release_year>
+    <genre>Drama</genre>
+    <director>Pawe? Pawlikowski</director>
+    <country>Poland</country>
+    <duration>82</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Agata Kulesza, Agata Trzebuchowska, Dawid Ogrodnik</actors_names>
+    <votes>61,665</votes>
+  </Movie>
+  <Movie>
+    <title>Son of Saul</title>
+    <release_year>2015</release_year>
+    <genre>Drama</genre>
+    <director>László Nemes</director>
+    <country>Hungary</country>
+    <duration>107</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Géza Röhrig, Levente Molnár, Urs Rechn</actors_names>
+    <votes>52,784</votes>
+  </Movie>
+  <Movie>
+    <title>Cold War</title>
+    <release_year>2018</release_year>
+    <genre>Romantic Drama</genre>
+    <director>Pawe? Pawlikowski</director>
+    <country>Poland</country>
+    <duration>89</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Joanna Kulig, Tomasz Kot, Borys Szyc</actors_names>
+    <votes>62,948</votes>
+  </Movie>
+  <Movie>
+    <title>Portrait of a Lady on Fire</title>
+    <release_year>2019</release_year>
+    <genre>Romantic Drama</genre>
+    <director>Céline Sciamma</director>
+    <country>France</country>
+    <duration>122</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Noémie Merlant, Adèle Haenel, Luàna Bajrami</actors_names>
+    <votes>115,413</votes>
+  </Movie>
+  <Movie>
+    <title>The Piano</title>
+    <release_year>1993</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Jane Campion</director>
+    <country>New Zealand</country>
+    <duration>121</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Holly Hunter, Harvey Keitel, Sam Neill</actors_names>
+    <votes>97,153</votes>
+  </Movie>
+  <Movie>
+    <title>Europa Europa</title>
+    <release_year>1990</release_year>
+    <genre>Drama, War</genre>
+    <director>Agnieszka Holland</director>
+    <country>Poland</country>
+    <duration>112</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Solomon Perel, Marco Hofschneider, René Hofschneider</actors_names>
+    <votes>17,726</votes>
+  </Movie>
+  <Movie>
+    <title>The White Ribbon</title>
+    <release_year>2009</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Michael Haneke</director>
+    <country>Germany</country>
+    <duration>144</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Christian Friedel, Ernst Jacobi, Leonie Benesch</actors_names>
+    <votes>79,018</votes>
+  </Movie>
+  <Movie>
+    <title>Antichrist</title>
+    <release_year>2009</release_year>
+    <genre>Horror, Drama</genre>
+    <director>Lars von Trier</director>
+    <country>Denmark</country>
+    <duration>108</duration>
+    <imbd_rating>6.5</imbd_rating>
+    <actors_names>Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstrøm</actors_names>
+    <votes>139,930</votes>
+  </Movie>
+  <Movie>
+    <title>The Hunt</title>
+    <release_year>2012</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Thomas Vinterberg</director>
+    <country>Denmark</country>
+    <duration>115</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp</actors_names>
+    <votes>380,978</votes>
+  </Movie>
+  <Movie>
+    <title>The Lobster</title>
+    <release_year>2015</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Yorgos Lanthimos</director>
+    <country>Greece</country>
+    <duration>119</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Colin Farrell, Rachel Weisz, Jessica Barden</actors_names>
+    <votes>314,165</votes>
+  </Movie>
+  <Movie>
+    <title>Happy as Lazzaro</title>
+    <release_year>2018</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Alice Rohrwacher</director>
+    <country>Italy</country>
+    <duration>125</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Adriano Tardiolo, Agnese Graziani, Alba Rohrwacher</actors_names>
+    <votes>21,651</votes>
+  </Movie>
+  <Movie>
+    <title>Toni Erdmann</title>
+    <release_year>2016</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Maren Ade</director>
+    <country>Germany</country>
+    <duration>162</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Sandra Hüller, Peter Simonischek, Michael Wittenborn</actors_names>
+    <votes>52,959</votes>
+  </Movie>
+  <Movie>
+    <title>I Am Love</title>
+    <release_year>2009</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Luca Guadagnino</director>
+    <country>Italy</country>
+    <duration>120</duration>
+    <imbd_rating>7.0</imbd_rating>
+    <actors_names>Tilda Swinton, Flavio Parenti, Edoardo Gabbriellini</actors_names>
+    <votes>24,683</votes>
+  </Movie>
+  <Movie>
+    <title>Wild Tales</title>
+    <release_year>2014</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Damián Szifron</director>
+    <country>Argentina</country>
+    <duration>122</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Darío Grandinetti, María Marull, Mónica Villa</actors_names>
+    <votes>225,049</votes>
+  </Movie>
+  <Movie>
+    <title>Volver</title>
+    <release_year>2006</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Pedro Almodóvar</director>
+    <country>Spain</country>
+    <duration>121</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Penélope Cruz, Carmen Maura, Lola Dueñas</actors_names>
+    <votes>109,472</votes>
+  </Movie>
+  <Movie>
+    <title>All About My Mother</title>
+    <release_year>1999</release_year>
+    <genre>Drama</genre>
+    <director>Pedro Almodóvar</director>
+    <country>Spain</country>
+    <duration>101</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Cecilia Roth, Marisa Paredes, Candela Peña</actors_names>
+    <votes>104,920</votes>
+  </Movie>
+  <Movie>
+    <title>Talk to Her</title>
+    <release_year>2002</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Pedro Almodóvar</director>
+    <country>Spain</country>
+    <duration>112</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Rosario Flores, Javier Cámara, Darío Grandinetti</actors_names>
+    <votes>119,250</votes>
+  </Movie>
+  <Movie>
+    <title>Pain and Glory</title>
+    <release_year>2019</release_year>
+    <genre>Drama</genre>
+    <director>Pedro Almodóvar</director>
+    <country>Spain</country>
+    <duration>113</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Antonio Banderas, Asier Etxeandia, Leonardo Sbaraglia</actors_names>
+    <votes>64,268</votes>
+  </Movie>
+  <Movie>
+    <title>Biutiful</title>
+    <release_year>2010</release_year>
+    <genre>Drama</genre>
+    <director>Alejandro G. Iñárritu</director>
+    <country>Mexico</country>
+    <duration>148</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Javier Bardem, Maricel Álvarez, Hanaa Bouchaib</actors_names>
+    <votes>95,629</votes>
+  </Movie>
+  <Movie>
+    <title>No Man’s Land</title>
+    <release_year>2001</release_year>
+    <genre>Drama, War</genre>
+    <director>Danis Tanović</director>
+    <country>Bosnia</country>
+    <duration>98</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Branko Djuric, Rene Bitorajac, Filip Sovagovic</actors_names>
+    <votes>49,335</votes>
+  </Movie>
+  <Movie>
+    <title>La Haine</title>
+    <release_year>1995</release_year>
+    <genre>Crime Drama</genre>
+    <director>Mathieu Kassovitz</director>
+    <country>France</country>
+    <duration>98</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Vincent Cassel, Hubert Koundé, Saïd Taghmaoui</actors_names>
+    <votes>207,472</votes>
+  </Movie>
+  <Movie>
+    <title>Elle</title>
+    <release_year>2016</release_year>
+    <genre>Thriller</genre>
+    <director>Paul Verhoeven</director>
+    <country>France</country>
+    <duration>130</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Isabelle Huppert, Laurent Lafitte, Anne Consigny</actors_names>
+    <votes>72,575</votes>
+  </Movie>
+  <Movie>
+    <title>Goodbye Lenin!</title>
+    <release_year>2003</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Wolfgang Becker</director>
+    <country>Germany</country>
+    <duration>121</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>The Class</title>
+    <release_year>2008</release_year>
+    <genre>Drama</genre>
+    <director>Laurent Cantet</director>
+    <country>France</country>
+    <duration>128</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>François Bégaudeau, Agame Malembo-Emene, Angélica Sancio</actors_names>
+    <votes>36,785</votes>
+  </Movie>
+  <Movie>
+    <title>Vicky Cristina Barcelona</title>
+    <release_year>2008</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Woody Allen</director>
+    <country>Spain</country>
+    <duration>96</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Rebecca Hall, Scarlett Johansson, Javier Bardem</actors_names>
+    <votes>273,389</votes>
+  </Movie>
+  <Movie>
+    <title>Midnight in Paris</title>
+    <release_year>2011</release_year>
+    <genre>Comedy, Romance</genre>
+    <director>Woody Allen</director>
+    <country>France</country>
+    <duration>94</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Owen Wilson, Rachel McAdams, Kathy Bates</actors_names>
+    <votes>455,930</votes>
+  </Movie>
+  <Movie>
+    <title>The Illusionist</title>
+    <release_year>2010</release_year>
+    <genre>Animation, Drama</genre>
+    <director>Sylvain Chomet</director>
+    <country>France</country>
+    <duration>80</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Jean-Claude Donda, Eilidh Rankin, Duncan MacNeil</actors_names>
+    <votes>36,923</votes>
+  </Movie>
+  <Movie>
+    <title>Persepolis</title>
+    <release_year>2007</release_year>
+    <genre>Animation, Drama</genre>
+    <director>Marjane Satrapi, Vincent Paronnaud</director>
+    <country>France</country>
+    <duration>96</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Chiara Mastroianni, Catherine Deneuve, Gena Rowlands</actors_names>
+    <votes>102,143</votes>
+  </Movie>
+  <Movie>
+    <title>The Red Turtle</title>
+    <release_year>2016</release_year>
+    <genre>Animation, Fantasy</genre>
+    <director>Michaël Dudok de Wit</director>
+    <country>France</country>
+    <duration>80</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Emmanuel Garijo, Tom Hudson, Baptiste Goy</actors_names>
+    <votes>39,811</votes>
+  </Movie>
+  <Movie>
+    <title>Wings of Desire</title>
+    <release_year>1987</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Wim Wenders</director>
+    <country>Germany</country>
+    <duration>128</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Bruno Ganz, Solveig Dommartin, Otto Sander</actors_names>
+    <votes>80,038</votes>
+  </Movie>
+  <Movie>
+    <title>Breathless</title>
+    <release_year>1960</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Jean-Luc Godard</director>
+    <country>France</country>
+    <duration>90</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Jean-Paul Belmondo, Jean Seberg, Van Doude</actors_names>
+    <votes>89,949</votes>
+  </Movie>
+  <Movie>
+    <title>The 400 Blows</title>
+    <release_year>1959</release_year>
+    <genre>Drama</genre>
+    <director>François Truffaut</director>
+    <country>France</country>
+    <duration>99</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Jean-Pierre Léaud, Albert Rémy, Claire Maurier</actors_names>
+    <votes>130,340</votes>
+  </Movie>
+  <Movie>
+    <title>Jules and Jim</title>
+    <release_year>1962</release_year>
+    <genre>Drama, Romance</genre>
+    <director>François Truffaut</director>
+    <country>France</country>
+    <duration>105</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Jeanne Moreau, Oskar Werner, Henri Serre</actors_names>
+    <votes>45,246</votes>
+  </Movie>
+  <Movie>
+    <title>The Conformist</title>
+    <release_year>1970</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Bernardo Bertolucci</director>
+    <country>Italy</country>
+    <duration>113</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin</actors_names>
+    <votes>34,656</votes>
+  </Movie>
+  <Movie>
+    <title>La Dolce Vita</title>
+    <release_year>1960</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Federico Fellini</director>
+    <country>Italy</country>
+    <duration>174</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Marcello Mastroianni, Anita Ekberg, Anouk Aimée</actors_names>
+    <votes>79,809</votes>
+  </Movie>
+  <Movie>
+    <title>The Seventh Seal</title>
+    <release_year>1957</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Ingmar Bergman</director>
+    <country>Sweden</country>
+    <duration>96</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Max von Sydow, Gunnar Björnstrand, Bengt Ekerot</actors_names>
+    <votes>205,984</votes>
+  </Movie>
+  <Movie>
+    <title>Persona</title>
+    <release_year>1966</release_year>
+    <genre>Drama</genre>
+    <director>Ingmar Bergman</director>
+    <country>Sweden</country>
+    <duration>83</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Bibi Andersson, Liv Ullmann, Margaretha Krook</actors_names>
+    <votes>134,310</votes>
+  </Movie>
+  <Movie>
+    <title>Scenes from a Marriage</title>
+    <release_year>1973</release_year>
+    <genre>Drama</genre>
+    <director>Ingmar Bergman</director>
+    <country>Sweden</country>
+    <duration>167</duration>
+    <imbd_rating>8.5</imbd_rating>
+    <actors_names>Liv Ullmann, Erland Josephson, Bibi Andersson</actors_names>
+    <votes>17,421</votes>
+  </Movie>
+  <Movie>
+    <title>Fanny and Alexander</title>
+    <release_year>1982</release_year>
+    <genre>Drama</genre>
+    <director>Ingmar Bergman</director>
+    <country>Sweden</country>
+    <duration>188</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Bertil Guve, Pernilla Allwin, Kristina Adolphson</actors_names>
+    <votes>68,952</votes>
+  </Movie>
+  <Movie>
+    <title>The Double Life of Veronique</title>
+    <release_year>1991</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Krzysztof Kieślowski</director>
+    <country>France</country>
+    <duration>98</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Irène Jacob, Wladyslaw Kowalski, Halina Gryglaszewska</actors_names>
+    <votes>54,511</votes>
+  </Movie>
+  <Movie>
+    <title>Three Colors Red</title>
+    <release_year>1994</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Krzysztof Kieślowski</director>
+    <country>France</country>
+    <duration>99</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Irène Jacob, Jean-Louis Trintignant, Frédérique Feder</actors_names>
+    <votes>112,875</votes>
+  </Movie>
+  <Movie>
+    <title>Three Colors Blue</title>
+    <release_year>1993</release_year>
+    <genre>Drama, Music</genre>
+    <director>Krzysztof Kieślowski</director>
+    <country>France</country>
+    <duration>98</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Juliette Binoche, Zbigniew Zamachowski, Julie Delpy</actors_names>
+    <votes>113,958</votes>
+  </Movie>
+  <Movie>
+    <title>Three Colors White</title>
+    <release_year>1994</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Krzysztof Kieślowski</director>
+    <country>France</country>
+    <duration>92</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Zbigniew Zamachowski, Julie Delpy, Janusz Gajos</actors_names>
+    <votes>81,830</votes>
+  </Movie>
+  <Movie>
+    <title>Bicycle Thieves</title>
+    <release_year>1948</release_year>
+    <genre>Drama</genre>
+    <director>Vittorio De Sica</director>
+    <country>Italy</country>
+    <duration>89</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Lamberto Maggiorani, Enzo Staiola, Lianella Carell</actors_names>
+    <votes>182,401</votes>
+  </Movie>
+  <Movie>
+    <title>The Leopard</title>
+    <release_year>1963</release_year>
+    <genre>Drama, History</genre>
+    <director>Luchino Visconti</director>
+    <country>Italy</country>
+    <duration>185</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Burt Lancaster, Alain Delon, Claudia Cardinale</actors_names>
+    <votes>30,794</votes>
+  </Movie>
+  <Movie>
+    <title>Yesterday, Today and Tomorrow</title>
+    <release_year>1963</release_year>
+    <genre>Comedy, Romance</genre>
+    <director>Vittorio De Sica</director>
+    <country>Italy</country>
+    <duration>119</duration>
+    <imbd_rating>7.2</imbd_rating>
+    <actors_names>Sophia Loren, Marcello Mastroianni, Aldo Giuffrè</actors_names>
+    <votes>10,383</votes>
+  </Movie>
+  <Movie>
+    <title>Andrei Rublev</title>
+    <release_year>1966</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>205</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Anatoliy Solonitsyn, Ivan Lapikov, Nikolay Grinko</actors_names>
+    <votes>58,379</votes>
+  </Movie>
+  <Movie>
+    <title>Solaris</title>
+    <release_year>1972</release_year>
+    <genre>Drama, Sci-Fi</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>167</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Natalya Bondarchuk, Donatas Banionis, Jüri Järvet</actors_names>
+    <votes>100,991</votes>
+  </Movie>
+  <Movie>
+    <title>Stalker</title>
+    <release_year>1979</release_year>
+    <genre>Drama, Sci-Fi</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>163</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn</actors_names>
+    <votes>149,801</votes>
+  </Movie>
+  <Movie>
+    <title>The Girl with the Dragon Tattoo</title>
+    <release_year>2009</release_year>
+    <genre>Crime, Drama, Mystery</genre>
+    <director>Niels Arden Oplev</director>
+    <country>Sweden</country>
+    <duration>152</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Michael Nyqvist, Noomi Rapace, Ewa Fröling</actors_names>
+    <votes>226,242</votes>
+  </Movie>
+  <Movie>
+    <title>Good Bye Lenin!</title>
+    <release_year>2003</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Wolfgang Becker</director>
+    <country>Germany</country>
+    <duration>121</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Daniel Brühl, Katrin Sass, Chulpan Khamatova</actors_names>
+    <votes>155,170</votes>
+  </Movie>
+  <Movie>
+    <title>A Very Long Engagement</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Mystery, Romance</genre>
+    <director>Jean-Pierre Jeunet</director>
+    <country>France</country>
+    <duration>133</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Audrey Tautou, Gaspard Ulliel, Jodie Foster</actors_names>
+    <votes>76,493</votes>
+  </Movie>
+  <Movie>
+    <title>The Chorus</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Music</genre>
+    <director>Christophe Barratier</director>
+    <country>France</country>
+    <duration>97</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Gérard Jugnot, François Berléand, Jean-Baptiste Maunier</actors_names>
+    <votes>68,923</votes>
+  </Movie>
+  <Movie>
+    <title>Force Majeure</title>
+    <release_year>2014</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Ruben Östlund</director>
+    <country>Sweden</country>
+    <duration>120</duration>
+    <imbd_rating>7.2</imbd_rating>
+    <actors_names>Johannes Kuhnke, Lisa Loven Kongsli, Clara Wettergren</actors_names>
+    <votes>69,765</votes>
+  </Movie>
+  <Movie>
+    <title>A Royal Affair</title>
+    <release_year>2012</release_year>
+    <genre>Biography, Drama, History</genre>
+    <director>Nikolaj Arcel</director>
+    <country>Denmark</country>
+    <duration>137</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Alicia Vikander, Mads Mikkelsen, Mikkel Boe Følsgaard</actors_names>
+    <votes>52,088</votes>
+  </Movie>
+  <Movie>
+    <title>Pelle the Conqueror</title>
+    <release_year>1987</release_year>
+    <genre>Drama</genre>
+    <director>Bille August</director>
+    <country>Denmark</country>
+    <duration>157</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Pelle Hvenegaard, Max von Sydow, Erik Paaske</actors_names>
+    <votes>12,059</votes>
+  </Movie>
+  <Movie>
+    <title>The Celebration</title>
+    <release_year>1998</release_year>
+    <genre>Drama</genre>
+    <director>Thomas Vinterberg</director>
+    <country>Denmark</country>
+    <duration>105</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Ulrich Thomsen, Henning Moritzen, Thomas Bo Larsen</actors_names>
+    <votes>95,318</votes>
+  </Movie>
+  <Movie>
+    <title>The Umbrellas of Cherbourg</title>
+    <release_year>1964</release_year>
+    <genre>Drama, Musical</genre>
+    <director>Jacques Demy</director>
+    <country>France</country>
+    <duration>91</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Catherine Deneuve, Nino Castelnuovo, Anne Vernon</actors_names>
+    <votes>32,696</votes>
+  </Movie>
+  <Movie>
+    <title>Belle de Jour</title>
+    <release_year>1967</release_year>
+    <genre>Drama</genre>
+    <director>Luis Buñuel</director>
+    <country>France</country>
+    <duration>100</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Catherine Deneuve, Jean Sorel, Michel Piccoli</actors_names>
+    <votes>50,570</votes>
+  </Movie>
+  <Movie>
+    <title>The Discreet Charm of the Bourgeoisie</title>
+    <release_year>1972</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Luis Buñuel</director>
+    <country>France</country>
+    <duration>102</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Fernando Rey, Delphine Seyrig, Paul Frankeur</actors_names>
+    <votes>47,825</votes>
+  </Movie>
+  <Movie>
+    <title>The Battle of Algiers</title>
+    <release_year>1966</release_year>
+    <genre>Drama, War</genre>
+    <director>Gillo Pontecorvo</director>
+    <country>Italy</country>
+    <duration>121</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Brahim Hadjadj, Jean Martin, Yacef Saadi</actors_names>
+    <votes>69,287</votes>
+  </Movie>
+  <Movie>
+    <title>L'Avventura</title>
+    <release_year>1960</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Michelangelo Antonioni</director>
+    <country>Italy</country>
+    <duration>143</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Gabriele Ferzetti, Monica Vitti, Lea Massari</actors_names>
+    <votes>34,571</votes>
+  </Movie>
+  <Movie>
+    <title>The Spirit of the Beehive</title>
+    <release_year>1973</release_year>
+    <genre>Drama</genre>
+    <director>Víctor Erice</director>
+    <country>Spain</country>
+    <duration>98</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Fernando Fernán Gómez, Teresa Gimpera, Ana Torrent</actors_names>
+    <votes>21,262</votes>
+  </Movie>
+  <Movie>
+    <title>The Exterminating Angel</title>
+    <release_year>1962</release_year>
+    <genre>Drama, Fantasy</genre>
+    <director>Luis Buñuel</director>
+    <country>Mexico</country>
+    <duration>95</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Silvia Pinal, Jacqueline Andere, Enrique Rambal</actors_names>
+    <votes>36,516</votes>
+  </Movie>
+  <Movie>
+    <title>The Cranes Are Flying</title>
+    <release_year>1957</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Mikhail Kalatozov</director>
+    <country>Russia</country>
+    <duration>97</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Tatyana Samoylova, Aleksey Batalov, Vasiliy Merkurev</actors_names>
+    <votes>20,490</votes>
+  </Movie>
+  <Movie>
+    <title>The Ascent</title>
+    <release_year>1977</release_year>
+    <genre>Drama, War</genre>
+    <director>Larisa Shepitko</director>
+    <country>Russia</country>
+    <duration>111</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Boris Plotnikov, Vladimir Gostyukhin, Sergey Yakovlev</actors_names>
+    <votes>10,773</votes>
+  </Movie>
+  <Movie>
+    <title>The Firemen's Ball</title>
+    <release_year>1967</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Miloš Forman</director>
+    <country>Czechoslovakia</country>
+    <duration>71</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Jan Vostrcil, Josef Sebánek, Josef Valnoha</actors_names>
+    <votes>12,566</votes>
+  </Movie>
+  <Movie>
+    <title>Closely Watched Trains</title>
+    <release_year>1966</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Jiří Menzel</director>
+    <country>Czechoslovakia</country>
+    <duration>93</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Václav Neckár, Josef Somr, Vlastimil Brodský</actors_names>
+    <votes>14,157</votes>
+  </Movie>
+  <Movie>
+    <title>Daisies</title>
+    <release_year>1966</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Věra Chytilová</director>
+    <country>Czechoslovakia</country>
+    <duration>74</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Ivana Karbanová, Jitka Cerhová, Marie Cesková</actors_names>
+    <votes>16,026</votes>
+  </Movie>
+  <Movie>
+    <title>Marketa Lazarová</title>
+    <release_year>1967</release_year>
+    <genre>Drama, History</genre>
+    <director>František Vláčil</director>
+    <country>Czechoslovakia</country>
+    <duration>162</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Josef Kemr, Magda Vásáryová, Nada Hejna</actors_names>
+    <votes>6,287</votes>
+  </Movie>
+  <Movie>
+    <title>Ashes and Diamonds</title>
+    <release_year>1958</release_year>
+    <genre>Drama, War</genre>
+    <director>Andrzej Wajda</director>
+    <country>Poland</country>
+    <duration>103</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Zbigniew Cybulski, Ewa Krzyzewska, Waclaw Zastrzezynski</actors_names>
+    <votes>13,887</votes>
+  </Movie>
+  <Movie>
+    <title>Man of Marble</title>
+    <release_year>1977</release_year>
+    <genre>Drama</genre>
+    <director>Andrzej Wajda</director>
+    <country>Poland</country>
+    <duration>165</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Krystyna Janda, Jerzy Radziwilowicz, Tadeusz Lomnicki</actors_names>
+    <votes>4,908</votes>
+  </Movie>
+  <Movie>
+    <title>Man of Iron</title>
+    <release_year>1981</release_year>
+    <genre>Drama</genre>
+    <director>Andrzej Wajda</director>
+    <country>Poland</country>
+    <duration>153</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Jerzy Radziwilowicz, Krystyna Janda, Marian Opania</actors_names>
+    <votes>3,862</votes>
+  </Movie>
+  <Movie>
+    <title>The Saragossa Manuscript</title>
+    <release_year>1965</release_year>
+    <genre>Adventure, Drama</genre>
+    <director>Wojciech Has</director>
+    <country>Poland</country>
+    <duration>182</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Zbigniew Cybulski, Iga Cembrzynska, Elzbieta Czyzewska</actors_names>
+    <votes>6,042</votes>
+  </Movie>
+  <Movie>
+    <title>Knife in the Water</title>
+    <release_year>1962</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Roman Polanski</director>
+    <country>Poland</country>
+    <duration>94</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Leon Niemczyk, Jolanta Umecka, Zygmunt Malanowicz</actors_names>
+    <votes>24,190</votes>
+  </Movie>
+  <Movie>
+    <title>Ivan's Childhood</title>
+    <release_year>1962</release_year>
+    <genre>Drama, War</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>95</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Nikolay Burlyaev, Valentin Zubkov, Evgeniy Zharikov</actors_names>
+    <votes>41,167</votes>
+  </Movie>
+  <Movie>
+    <title>The Mirror</title>
+    <release_year>1975</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Andrei Tarkovsky</director>
+    <country>Russia</country>
+    <duration>107</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>The Color of Pomegranates</title>
+    <release_year>1969</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Sergei Parajanov</director>
+    <country>USSR</country>
+    <duration>79</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Sofiko Chiaureli, Melkon Alekyan, Vilen Galstyan</actors_names>
+    <votes>14,428</votes>
+  </Movie>
+  <Movie>
+    <title>Come and See</title>
+    <release_year>1985</release_year>
+    <genre>Drama, War</genre>
+    <director>Elem Klimov</director>
+    <country>USSR</country>
+    <duration>142</duration>
+    <imbd_rating>8.4</imbd_rating>
+    <actors_names>Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius</actors_names>
+    <votes>103,344</votes>
+  </Movie>
+  <Movie>
+    <title>Battleship Potemkin</title>
+    <release_year>1925</release_year>
+    <genre>Drama, History</genre>
+    <director>Sergei Eisenstein</director>
+    <country>USSR</country>
+    <duration>75</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Aleksandr Antonov, Vladimir Barskiy, Grigoriy Aleksandrov</actors_names>
+    <votes>62,849</votes>
+  </Movie>
+  <Movie>
+    <title>Man with a Movie Camera</title>
+    <release_year>1929</release_year>
+    <genre>Documentary, Avant-Garde</genre>
+    <director>Dziga Vertov</director>
+    <country>USSR</country>
+    <duration>68</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Mikhail Kaufman, Elizaveta Svilova</actors_names>
+    <votes>28,738</votes>
+  </Movie>
+  <Movie>
+    <title>The Phantom of Liberty</title>
+    <release_year>1974</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Luis Buñuel</director>
+    <country>France</country>
+    <duration>104</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Jean-Claude Brialy, Adolfo Celi, Michel Piccoli</actors_names>
+    <votes>17,502</votes>
+  </Movie>
+  <Movie>
+    <title>Viridiana</title>
+    <release_year>1961</release_year>
+    <genre>Drama</genre>
+    <director>Luis Buñuel</director>
+    <country>Spain</country>
+    <duration>90</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Silvia Pinal, Francisco Rabal, Fernando Rey</actors_names>
+    <votes>26,759</votes>
+  </Movie>
+  <Movie>
+    <title>Z</title>
+    <release_year>1969</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Costa-Gavras</director>
+    <country>France</country>
+    <duration>127</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Yves Montand, Irene Papas, Jean-Louis Trintignant</actors_names>
+    <votes>32,277</votes>
+  </Movie>
+  <Movie>
+    <title>The Wages of Fear</title>
+    <release_year>1953</release_year>
+    <genre>Adventure, Drama</genre>
+    <director>Henri-Georges Clouzot</director>
+    <country>France</country>
+    <duration>131</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Yves Montand, Charles Vanel, Peter van Eyck</actors_names>
+    <votes>69,086</votes>
+  </Movie>
+  <Movie>
+    <title>Diabolique</title>
+    <release_year>1955</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Henri-Georges Clouzot</director>
+    <country>France</country>
+    <duration>114</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Simone Signoret, Véra Clouzot, Paul Meurisse</actors_names>
+    <votes>71,134</votes>
+  </Movie>
+  <Movie>
+    <title>La Grande Illusion</title>
+    <release_year>1937</release_year>
+    <genre>Drama, War</genre>
+    <director>Jean Renoir</director>
+    <country>France</country>
+    <duration>114</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>The Rules of the Game</title>
+    <release_year>1939</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Jean Renoir</director>
+    <country>France</country>
+    <duration>110</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Marcel Dalio, Nora Gregor, Paulette Dubost</actors_names>
+    <votes>31,917</votes>
+  </Movie>
+  <Movie>
+    <title>The Man Who Fell to Earth</title>
+    <release_year>1976</release_year>
+    <genre>Sci-Fi, Drama</genre>
+    <director>Nicolas Roeg</director>
+    <country>UK</country>
+    <duration>139</duration>
+    <imbd_rating>6.6</imbd_rating>
+    <actors_names>David Bowie, Rip Torn, Candy Clark</actors_names>
+    <votes>29,492</votes>
+  </Movie>
+  <Movie>
+    <title>The Wicker Man</title>
+    <release_year>1973</release_year>
+    <genre>Horror, Mystery</genre>
+    <director>Robin Hardy</director>
+    <country>UK</country>
+    <duration>88</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Edward Woodward, Christopher Lee, Diane Cilento</actors_names>
+    <votes>97,737</votes>
+  </Movie>
+  <Movie>
+    <title>Don't Look Now</title>
+    <release_year>1973</release_year>
+    <genre>Drama, Horror</genre>
+    <director>Nicolas Roeg</director>
+    <country>UK</country>
+    <duration>110</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Julie Christie, Donald Sutherland, Hilary Mason</actors_names>
+    <votes>65,411</votes>
+  </Movie>
+  <Movie>
+    <title>The Killing of a Sacred Deer</title>
+    <release_year>2017</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Yorgos Lanthimos</director>
+    <country>UK</country>
+    <duration>121</duration>
+    <imbd_rating>7.0</imbd_rating>
+    <actors_names>Barry G. Bernson, Herb Caillouet, Bill Camp</actors_names>
+    <votes>198,244</votes>
+  </Movie>
+  <Movie>
+    <title>Colette</title>
+    <release_year>2018</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Wash Westmoreland</director>
+    <country>UK</country>
+    <duration>111</duration>
+    <imbd_rating>6.7</imbd_rating>
+    <actors_names>Keira Knightley, Fiona Shaw, Dominic West</actors_names>
+    <votes>27,007</votes>
+  </Movie>
+  <Movie>
+    <title>Before Sunrise</title>
+    <release_year>1995</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Richard Linklater</director>
+    <country>Austria</country>
+    <duration>101</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Ethan Hawke, Julie Delpy, Andrea Eckert</actors_names>
+    <votes>351,243</votes>
+  </Movie>
+  <Movie>
+    <title>Before Sunset</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Richard Linklater</director>
+    <country>Austria</country>
+    <duration>80</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Ethan Hawke, Julie Delpy, Vernon Dobtcheff</actors_names>
+    <votes>297,233</votes>
+  </Movie>
+  <Movie>
+    <title>Before Midnight</title>
+    <release_year>2013</release_year>
+    <genre>Drama, Romance</genre>
+    <director>Richard Linklater</director>
+    <country>Greece</country>
+    <duration>109</duration>
+    <imbd_rating>7.9</imbd_rating>
+    <actors_names>Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick</actors_names>
+    <votes>176,761</votes>
+  </Movie>
+  <Movie>
+    <title>Corpus Christi</title>
+    <release_year>2019</release_year>
+    <genre>Drama</genre>
+    <director>Jan Komasa</director>
+    <country>Poland</country>
+    <duration>115</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Bartosz Bielenia, Aleksandra Konieczna, Eliza Rycembel</actors_names>
+    <votes>22,669</votes>
+  </Movie>
+  <Movie>
+    <title>The Shop on Main Street</title>
+    <release_year>1965</release_year>
+    <genre>Drama, War</genre>
+    <director>Ján Kadár, Elmar Klos</director>
+    <country>Czechoslovakia</country>
+    <duration>128</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Ida Kaminska, Jozef Kroner, Frantisek Zvarík</actors_names>
+    <votes>10,017</votes>
+  </Movie>
+  <Movie>
+    <title>The Handmaiden</title>
+    <release_year>2016</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Park Chan-wook</director>
+    <country>South Korea</country>
+    <duration>144</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Kim Min-hee, Ha Jung-woo, Cho Jin-woong</actors_names>
+    <votes>183,902</votes>
+  </Movie>
+  <Movie>
+    <title>Memories of Murder</title>
+    <release_year>2003</release_year>
+    <genre>Crime, Thriller</genre>
+    <director>Bong Joon-ho</director>
+    <country>South Korea</country>
+    <duration>132</duration>
+    <imbd_rating>8.1</imbd_rating>
+    <actors_names>Song Kang-ho, Kim Sang-kyung, Kim Roe-ha</actors_names>
+    <votes>231,023</votes>
+  </Movie>
+  <Movie>
+    <title>Mother</title>
+    <release_year>2009</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Bong Joon-ho</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Kim Hye-ja, Won Bin, Jin Goo</actors_names>
+    <votes>74,806</votes>
+  </Movie>
+  <Movie>
+    <title>The Wailing</title>
+    <release_year>2016</release_year>
+    <genre>Drama, Horror</genre>
+    <director>Na Hong-jin</director>
+    <country>South Korea</country>
+    <duration>156</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Jun Kunimura, Hwang Jung-min, Kwak Do-won</actors_names>
+    <votes>87,382</votes>
+  </Movie>
+  <Movie>
+    <title>Train to Busan</title>
+    <release_year>2016</release_year>
+    <genre>Action, Horror</genre>
+    <director>Yeon Sang-ho</director>
+    <country>South Korea</country>
+    <duration>118</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Gong Yoo, Jung Yu-mi, Ma Dong-seok</actors_names>
+    <votes>279,876</votes>
+  </Movie>
+  <Movie>
+    <title>I Saw the Devil</title>
+    <release_year>2010</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Kim Jee-woon</director>
+    <country>South Korea</country>
+    <duration>144</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Lee Byung-hun, Choi Min-sik, Jeon Gook-hwan</actors_names>
+    <votes>154,286</votes>
+  </Movie>
+  <Movie>
+    <title>Burning</title>
+    <release_year>2018</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Lee Chang-dong</director>
+    <country>South Korea</country>
+    <duration>148</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Yoo Ah-in, Steven Yeun, Jeon Jong-seo</actors_names>
+    <votes>79,717</votes>
+  </Movie>
+  <Movie>
+    <title>Snowpiercer</title>
+    <release_year>2013</release_year>
+    <genre>Action, Drama</genre>
+    <director>Bong Joon-ho</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Chris Evans, Jamie Bell, Tilda Swinton</actors_names>
+    <votes>402,872</votes>
+  </Movie>
+  <Movie>
+    <title>The Chaser</title>
+    <release_year>2008</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Na Hong-jin</director>
+    <country>South Korea</country>
+    <duration>125</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Kim Yoon-seok, Ha Jung-woo, Seo Young-hee</actors_names>
+    <votes>75,684</votes>
+  </Movie>
+  <Movie>
+    <title>A Tale of Two Sisters</title>
+    <release_year>2003</release_year>
+    <genre>Drama, Horror</genre>
+    <director>Kim Jee-woon</director>
+    <country>South Korea</country>
+    <duration>114</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Lim Soo-jung, Yum Jung-ah, Kim Kap-su</actors_names>
+    <votes>70,481</votes>
+  </Movie>
+  <Movie>
+    <title>Poetry</title>
+    <release_year>2010</release_year>
+    <genre>Drama</genre>
+    <director>Lee Chang-dong</director>
+    <country>South Korea</country>
+    <duration>139</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Yun Jeong-hie, Lee Da-wit, Kim Hee-ra</actors_names>
+    <votes>13,889</votes>
+  </Movie>
+  <Movie>
+    <title>Extreme Job</title>
+    <release_year>2019</release_year>
+    <genre>Comedy, Action</genre>
+    <director>Lee Byeong-heon</director>
+    <country>South Korea</country>
+    <duration>111</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Ryu Seung-ryong, Lee Hanee, Jin Seon-kyu</actors_names>
+    <votes>13,794</votes>
+  </Movie>
+  <Movie>
+    <title>Hope</title>
+    <release_year>2013</release_year>
+    <genre>Drama</genre>
+    <director>Lee Joon-ik</director>
+    <country>South Korea</country>
+    <duration>123</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Lee Re, Sul Kyung-gu, Uhm Ji-won</actors_names>
+    <votes>10,383</votes>
+  </Movie>
+  <Movie>
+    <title>Masquerade</title>
+    <release_year>2012</release_year>
+    <genre>Drama, History</genre>
+    <director>Choo Chang-min</director>
+    <country>South Korea</country>
+    <duration>131</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Lee Byung-hun, Ryu Seung-ryong, Han Hyo-joo</actors_names>
+    <votes>7,621</votes>
+  </Movie>
+  <Movie>
+    <title>The Fortress</title>
+    <release_year>2017</release_year>
+    <genre>Drama, History</genre>
+    <director>Hwang Dong-hyuk</director>
+    <country>South Korea</country>
+    <duration>140</duration>
+    <imbd_rating>6.8</imbd_rating>
+    <actors_names>Lee Byung-hun, Kim Yoon-seok, Park Hae-il</actors_names>
+    <votes>3,574</votes>
+  </Movie>
+  <Movie>
+    <title>Swing Kids</title>
+    <release_year>2018</release_year>
+    <genre>Drama, Music</genre>
+    <director>Kang Hyeong-cheol</director>
+    <country>South Korea</country>
+    <duration>133</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>A.J. Simmons, Kim Min-jae, Oh Jung-se</actors_names>
+    <votes>2,926</votes>
+  </Movie>
+  <Movie>
+    <title>The Battle Roar to Victory</title>
+    <release_year>2019</release_year>
+    <genre>Action, Drama</genre>
+    <director>Won Shin-yun</director>
+    <country>South Korea</country>
+    <duration>134</duration>
+    <imbd_rating>6.4</imbd_rating>
+    <actors_names>Yoo Hae-jin, Ryu Jun-yeol, Jo Woo-jin</actors_names>
+    <votes>964</votes>
+  </Movie>
+  <Movie>
+    <title>The Age of Shadows</title>
+    <release_year>2016</release_year>
+    <genre>Action, Drama</genre>
+    <director>Kim Jee-woon</director>
+    <country>South Korea</country>
+    <duration>140</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Lee Byung-hun, Gong Yoo, Heo Sung-tae</actors_names>
+    <votes>11,408</votes>
+  </Movie>
+  <Movie>
+    <title>Forgotten</title>
+    <release_year>2017</release_year>
+    <genre>Mystery, Thriller</genre>
+    <director>Jang Hang-jun</director>
+    <country>South Korea</country>
+    <duration>108</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Kang Ha-neul, Yeon Je Hyung, Kim Mu-yeol</actors_names>
+    <votes>49,746</votes>
+  </Movie>
+  <Movie>
+    <title>Midnight Runners</title>
+    <release_year>2017</release_year>
+    <genre>Action, Comedy</genre>
+    <director>Kim Joo-hwan</director>
+    <country>South Korea</country>
+    <duration>109</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Park Seo-joon, Kang Ha-neul, Park Ha-seon</actors_names>
+    <votes>10,471</votes>
+  </Movie>
+  <Movie>
+    <title>1987 When the Day Comes</title>
+    <release_year>2017</release_year>
+    <genre>Drama, History</genre>
+    <director>Jang Joon-hwan</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Kim Tae-ri, Gang Dong-won, Jo Woo-jin</actors_names>
+    <votes>7,223</votes>
+  </Movie>
+  <Movie>
+    <title>New World</title>
+    <release_year>2013</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Park Hoon-jung</director>
+    <country>South Korea</country>
+    <duration>135</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Lee Jung-jae, Choi Min-sik, Hwang Jung-min</actors_names>
+    <votes>27,319</votes>
+  </Movie>
+  <Movie>
+    <title>The Villainess</title>
+    <release_year>2017</release_year>
+    <genre>Action, Crime</genre>
+    <director>Jung Byung-gil</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imbd_rating>6.6</imbd_rating>
+    <actors_names>Kim Ok-bin, Shin Ha-kyun, Sung Jun</actors_names>
+    <votes>17,601</votes>
+  </Movie>
+  <Movie>
+    <title>Tunnel</title>
+    <release_year>2016</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Kim Seong-hun</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imbd_rating>6.8</imbd_rating>
+    <actors_names>Ha Jung-woo, Bae Doona, Oh Dal-su</actors_names>
+    <votes>11,128</votes>
+  </Movie>
+  <Movie>
+    <title>A Bittersweet Life</title>
+    <release_year>2005</release_year>
+    <genre>Action, Drama</genre>
+    <director>Kim Jee-woon</director>
+    <country>South Korea</country>
+    <duration>120</duration>
+    <imbd_rating>7.5</imbd_rating>
+    <actors_names>Lee Byung-hun, Shin Min-a, Kim Yeong-cheol</actors_names>
+    <votes>43,822</votes>
+  </Movie>
+  <Movie>
+    <title>Hwayi A Monster Boy</title>
+    <release_year>2013</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Jang Joon-hwan</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imbd_rating>7.0</imbd_rating>
+    <actors_names>Kim Yoon-seok, Yeo Jin-goo, Cho Jin-woong</actors_names>
+    <votes>5,646</votes>
+  </Movie>
+  <Movie>
+    <title>The Merciless</title>
+    <release_year>2017</release_year>
+    <genre>Action, Crime</genre>
+    <director>Byun Sung-hyun</director>
+    <country>South Korea</country>
+    <duration>117</duration>
+    <imbd_rating>6.7</imbd_rating>
+    <actors_names>Sul Kyung-gu, Yim Si-wan, Lee Kyoung-young</actors_names>
+    <votes>3,326</votes>
+  </Movie>
+  <Movie>
+    <title>The Divine Fury</title>
+    <release_year>2019</release_year>
+    <genre>Action, Horror</genre>
+    <director>Kim Joo-hwan</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imbd_rating>6.3</imbd_rating>
+    <actors_names>Park Seo-joon, Ahn Sung-ki, Woo Do-Hwan</actors_names>
+    <votes>4,613</votes>
+  </Movie>
+  <Movie>
+    <title>Eungyo</title>
+    <release_year>2012</release_year>
+    <genre>Drama</genre>
+    <director>Jung Ji-woo</director>
+    <country>South Korea</country>
+    <duration>129</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>The Admiral Roaring Currents</title>
+    <release_year>2014</release_year>
+    <genre>Action, War</genre>
+    <director>Kim Han-min</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Choi Min-sik, Ryu Seung-ryong, Cho Jin-woong</actors_names>
+    <votes>13,484</votes>
+  </Movie>
+  <Movie>
+    <title>Ode to My Father</title>
+    <release_year>2014</release_year>
+    <genre>Drama</genre>
+    <director>Yoon Je-kyoon</director>
+    <country>South Korea</country>
+    <duration>126</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Hwang Jung-min, Yunjin Kim, Oh Dal-su</actors_names>
+    <votes>6,414</votes>
+  </Movie>
+  <Movie>
+    <title>Veteran</title>
+    <release_year>2015</release_year>
+    <genre>Action, Crime</genre>
+    <director>Ryoo Seung-wan</director>
+    <country>South Korea</country>
+    <duration>123</duration>
+    <imbd_rating>7.0</imbd_rating>
+    <actors_names>Hwang Jung-min, Yoo Ah-in, Yoo Hae-jin</actors_names>
+    <votes>8,425</votes>
+  </Movie>
+  <Movie>
+    <title>The Inbetweeners Movie</title>
+    <release_year>2011</release_year>
+    <genre>Comedy</genre>
+    <director>Ben Palmer</director>
+    <country>UK</country>
+    <duration>97</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Four Weddings and a Funeral</title>
+    <release_year>1994</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Mike Newell</director>
+    <country>UK</country>
+    <duration>117</duration>
+    <imbd_rating>7.1</imbd_rating>
+    <actors_names>Hugh Grant, Andie MacDowell, James Fleet</actors_names>
+    <votes>170,071</votes>
+  </Movie>
+  <Movie>
+    <title>The Best Exotic Marigold Hotel</title>
+    <release_year>2011</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>John Madden</director>
+    <country>UK</country>
+    <duration>124</duration>
+    <imbd_rating>7.2</imbd_rating>
+    <actors_names>Judi Dench, Bill Nighy, Maggie Smith</actors_names>
+    <votes>100,971</votes>
+  </Movie>
+  <Movie>
+    <title>The Iron Lady</title>
+    <release_year>2011</release_year>
+    <genre>Biography, Drama</genre>
+    <director>Phyllida Lloyd</director>
+    <country>UK</country>
+    <duration>105</duration>
+    <imbd_rating>6.4</imbd_rating>
+    <actors_names>Meryl Streep, Jim Broadbent, Richard E. Grant</actors_names>
+    <votes>114,725</votes>
+  </Movie>
+  <Movie>
+    <title>The Woman in Black</title>
+    <release_year>2012</release_year>
+    <genre>Drama, Horror</genre>
+    <director>James Watkins</director>
+    <country>UK</country>
+    <duration>95</duration>
+    <imbd_rating>6.4</imbd_rating>
+    <actors_names>Daniel Radcliffe, Janet McTeer, Ciarán Hinds</actors_names>
+    <votes>195,484</votes>
+  </Movie>
+  <Movie>
+    <title>The Fifth Element</title>
+    <release_year>1997</release_year>
+    <genre>Sci-Fi, Action</genre>
+    <director>Luc Besson</director>
+    <country>France</country>
+    <duration>126</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Bruce Willis, Milla Jovovich, Gary Oldman</actors_names>
+    <votes>519,201</votes>
+  </Movie>
+  <Movie>
+    <title>Taken 2</title>
+    <release_year>2012</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Olivier Megaton</director>
+    <country>France</country>
+    <duration>92</duration>
+    <imbd_rating>6.2</imbd_rating>
+    <actors_names>Liam Neeson, Famke Janssen, Maggie Grace</actors_names>
+    <votes>328,740</votes>
+  </Movie>
+  <Movie>
+    <title>Lucy</title>
+    <release_year>2014</release_year>
+    <genre>Sci-Fi, Action</genre>
+    <director>Luc Besson</director>
+    <country>France</country>
+    <duration>89</duration>
+    <imbd_rating>6.4</imbd_rating>
+    <actors_names>Scarlett Johansson, Morgan Freeman, Choi Min-sik</actors_names>
+    <votes>551,032</votes>
+  </Movie>
+  <Movie>
+    <title>Asterix &amp; Obelix Mission Cleopatra</title>
+    <release_year>2002</release_year>
+    <genre>Adventure, Comedy</genre>
+    <director>Alain Chabat</director>
+    <country>France</country>
+    <duration>107</duration>
+    <imbd_rating>6.7</imbd_rating>
+    <actors_names>Gérard Depardieu, Christian Clavier, Jamel Debbouze</actors_names>
+    <votes>59,492</votes>
+  </Movie>
+  <Movie>
+    <title>The Professional</title>
+    <release_year>1981</release_year>
+    <genre>Action, Thriller</genre>
+    <director>Georges Lautner</director>
+    <country>France</country>
+    <duration>108</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Jean-Paul Belmondo, Jean Desailly, Cyrielle Clair</actors_names>
+    <votes>17,868</votes>
+  </Movie>
+  <Movie>
+    <title>The Transporter</title>
+    <release_year>2002</release_year>
+    <genre>Action, Crime</genre>
+    <director>Louis Leterrier, Corey Yuen</director>
+    <country>France</country>
+    <duration>92</duration>
+    <imbd_rating>6.8</imbd_rating>
+    <actors_names>Jason Statham, Shu Qi, Matt Schulze</actors_names>
+    <votes>327,802</votes>
+  </Movie>
+  <Movie>
+    <title>Quo Vado?</title>
+    <release_year>2016</release_year>
+    <genre>Comedy</genre>
+    <director>Gennaro Nunziante</director>
+    <country>Italy</country>
+    <duration>86</duration>
+    <imbd_rating>6.6</imbd_rating>
+    <actors_names>Checco Zalone, Eleonora Giovanardi, Sonia Bergamasco</actors_names>
+    <votes>13,131</votes>
+  </Movie>
+  <Movie>
+    <title>Sole a catinelle</title>
+    <release_year>2013</release_year>
+    <genre>Comedy</genre>
+    <director>Gennaro Nunziante</director>
+    <country>Italy</country>
+    <duration>90</duration>
+    <imbd_rating>6.3</imbd_rating>
+    <actors_names>Checco Zalone, Aurore Erguy, Miriam Dalmazio</actors_names>
+    <votes>7,134</votes>
+  </Movie>
+  <Movie>
+    <title>Che bella giornata</title>
+    <release_year>2011</release_year>
+    <genre>Comedy</genre>
+    <director>Gennaro Nunziante</director>
+    <country>Italy</country>
+    <duration>97</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>La vita è bella</title>
+    <release_year>1997</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Roberto Benigni</director>
+    <country>Italy</country>
+    <duration>116</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Tolo Tolo</title>
+    <release_year>2020</release_year>
+    <genre>Comedy</genre>
+    <director>Checco Zalone</director>
+    <country>Italy</country>
+    <duration>90</duration>
+    <imbd_rating>5.7</imbd_rating>
+    <actors_names>Checco Zalone, Souleymane Sylla, Romeo Landry Magrini</actors_names>
+    <votes>4,335</votes>
+  </Movie>
+  <Movie>
+    <title>Benvenuti al Sud</title>
+    <release_year>2010</release_year>
+    <genre>Comedy</genre>
+    <director>Luca Miniero</director>
+    <country>Italy</country>
+    <duration>102</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Benvenuti al Nord</title>
+    <release_year>2012</release_year>
+    <genre>Comedy</genre>
+    <director>Luca Miniero</director>
+    <country>Italy</country>
+    <duration>110</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Perfetti sconosciuti</title>
+    <release_year>2016</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Paolo Genovese</director>
+    <country>Italy</country>
+    <duration>97</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Il ciclone</title>
+    <release_year>1996</release_year>
+    <genre>Comedy</genre>
+    <director>Leonardo Pieraccioni</director>
+    <country>Italy</country>
+    <duration>95</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>La grande bellezza</title>
+    <release_year>2013</release_year>
+    <genre>Drama</genre>
+    <director>Paolo Sorrentino</director>
+    <country>Italy</country>
+    <duration>141</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Stalingrad</title>
+    <release_year>2013</release_year>
+    <genre>War Drama</genre>
+    <director>Fedor Bondarchuk</director>
+    <country>Russia</country>
+    <duration>131</duration>
+    <imbd_rating>5.7</imbd_rating>
+    <actors_names>Mariya Smolnikova, Yanina Studilina, Pyotr Fyodorov</actors_names>
+    <votes>17,947</votes>
+  </Movie>
+  <Movie>
+    <title>T-34</title>
+    <release_year>2018</release_year>
+    <genre>War Drama</genre>
+    <director>Alexey Sidorov</director>
+    <country>Russia</country>
+    <duration>139</duration>
+    <imbd_rating>6.8</imbd_rating>
+    <actors_names>Alexander Petrov, Irina Starshenbaum, Viktor Dobronravov</actors_names>
+    <votes>15,116</votes>
+  </Movie>
+  <Movie>
+    <title>Posledniy Bogatyr</title>
+    <release_year>2017</release_year>
+    <genre>Fantasy, Comedy</genre>
+    <director>Dmitriy Dyachenko</director>
+    <country>Russia</country>
+    <duration>114</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Gorko!</title>
+    <release_year>2013</release_year>
+    <genre>Comedy</genre>
+    <director>Zhora Kryzhovnikov</director>
+    <country>Russia</country>
+    <duration>100</duration>
+    <imbd_rating>5.6</imbd_rating>
+    <actors_names>Evgeniya Agenorova, Yuliya Aleksandrova, Dmitriy Burenkov</actors_names>
+    <votes>3,184</votes>
+  </Movie>
+  <Movie>
+    <title>Viking</title>
+    <release_year>2016</release_year>
+    <genre>Historical Drama</genre>
+    <director>Andrey Kravchuk</director>
+    <country>Russia</country>
+    <duration>133</duration>
+    <imbd_rating>4.6</imbd_rating>
+    <actors_names>Danila Kozlovsky, Svetlana Khodchenkova, Maksim Sukhanov</actors_names>
+    <votes>5,186</votes>
+  </Movie>
+  <Movie>
+    <title>Good Bye, Lenin!</title>
+    <release_year>2003</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Wolfgang Becker</director>
+    <country>Germany</country>
+    <duration>121</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Daniel Brühl, Katrin Sass, Chulpan Khamatova</actors_names>
+    <votes>155,170</votes>
+  </Movie>
+  <Movie>
+    <title>Metropolis</title>
+    <release_year>1927</release_year>
+    <genre>Sci-Fi, Drama</genre>
+    <director>Fritz Lang</director>
+    <country>Germany</country>
+    <duration>153</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Brigitte Helm, Alfred Abel, Gustav Fröhlich</actors_names>
+    <votes>190,808</votes>
+  </Movie>
+  <Movie>
+    <title>The Cabinet of Dr. Caligari</title>
+    <release_year>1920</release_year>
+    <genre>Horror, Mystery</genre>
+    <director>Robert Wiene</director>
+    <country>Germany</country>
+    <duration>71</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Werner Krauss, Conrad Veidt, Friedrich Feher</actors_names>
+    <votes>72,166</votes>
+  </Movie>
+  <Movie>
+    <title>M</title>
+    <release_year>1931</release_year>
+    <genre>Crime, Thriller</genre>
+    <director>Fritz Lang</director>
+    <country>Germany</country>
+    <duration>117</duration>
+    <imbd_rating>8.3</imbd_rating>
+    <actors_names>Peter Lorre, Ellen Widmann, Inge Landgut</actors_names>
+    <votes>174,567</votes>
+  </Movie>
+  <Movie>
+    <title>The Bridge</title>
+    <release_year>1959</release_year>
+    <genre>War, Drama</genre>
+    <director>Bernhard Wicki</director>
+    <country>Germany</country>
+    <duration>103</duration>
+    <imbd_rating>8.0</imbd_rating>
+    <actors_names>Volker Bohnet, Fritz Wepper, Michael Hinz</actors_names>
+    <votes>8,859</votes>
+  </Movie>
+  <Movie>
+    <title>Aguirre, The Wrath of God</title>
+    <release_year>1972</release_year>
+    <genre>Adventure, Drama</genre>
+    <director>Werner Herzog</director>
+    <country>Germany</country>
+    <duration>95</duration>
+    <imbd_rating>7.8</imbd_rating>
+    <actors_names>Klaus Kinski, Ruy Guerra, Helena Rojo</actors_names>
+    <votes>64,435</votes>
+  </Movie>
+  <Movie>
+    <title>The Marriage of Maria Braun</title>
+    <release_year>1979</release_year>
+    <genre>Drama</genre>
+    <director>Rainer Werner Fassbinder</director>
+    <country>Germany</country>
+    <duration>120</duration>
+    <imbd_rating>7.7</imbd_rating>
+    <actors_names>Hanna Schygulla, Klaus Löwitsch, Ivan Desny</actors_names>
+    <votes>15,307</votes>
+  </Movie>
+  <Movie>
+    <title>Das Boot</title>
+    <release_year>1981</release_year>
+    <genre>War, Drama</genre>
+    <director>Wolfgang Petersen</director>
+    <country>Germany</country>
+    <duration>149</duration>
+    <imbd_rating>8.4</imbd_rating>
+    <actors_names>Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann</actors_names>
+    <votes>273,687</votes>
+  </Movie>
+  <Movie>
+    <title>The Baader Meinhof Complex</title>
+    <release_year>2008</release_year>
+    <genre>Drama, History</genre>
+    <director>Uli Edel</director>
+    <country>Germany</country>
+    <duration>150</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Martina Gedeck, Moritz Bleibtreu, Johanna Wokalek</actors_names>
+    <votes>40,508</votes>
+  </Movie>
+  <Movie>
+    <title>The Wave</title>
+    <release_year>2008</release_year>
+    <genre>Drama, Thriller</genre>
+    <director>Dennis Gansel</director>
+    <country>Germany</country>
+    <duration>107</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Jürgen Vogel, Frederick Lau, Max Riemelt</actors_names>
+    <votes>117,353</votes>
+  </Movie>
+  <Movie>
+    <title>Victoria</title>
+    <release_year>2015</release_year>
+    <genre>Crime, Drama</genre>
+    <director>Sebastian Schipper</director>
+    <country>Germany</country>
+    <duration>138</duration>
+    <imbd_rating>7.6</imbd_rating>
+    <actors_names>Laia Costa, Frederick Lau, Franz Rogowski</actors_names>
+    <votes>64,303</votes>
+  </Movie>
+  <Movie>
+    <title>Oh Boy</title>
+    <release_year>2012</release_year>
+    <genre>Comedy, Drama</genre>
+    <director>Jan-Ole Gerster</director>
+    <country>Germany</country>
+    <duration>83</duration>
+    <imbd_rating/>
+    <actors_names/>
+    <votes/>
+  </Movie>
+  <Movie>
+    <title>Phoenix</title>
+    <release_year>2014</release_year>
+    <genre>Drama, Mystery</genre>
+    <director>Christian Petzold</director>
+    <country>Germany</country>
+    <duration>98</duration>
+    <imbd_rating>7.3</imbd_rating>
+    <actors_names>Nina Hoss, Ronald Zehrfeld, Nina Kunzendorf</actors_names>
+    <votes>21,036</votes>
+  </Movie>
+  <Movie>
+    <title>Barbara</title>
+    <release_year>2012</release_year>
+    <genre>Drama, History</genre>
+    <director>Christian Petzold</director>
+    <country>Germany</country>
+    <duration>105</duration>
+    <imbd_rating>7.2</imbd_rating>
+    <actors_names>Nina Hoss, Ronald Zehrfeld, Rainer Bock</actors_names>
+    <votes>16,411</votes>
+  </Movie>
+  <Movie>
+    <title>The Edukators</title>
+    <release_year>2004</release_year>
+    <genre>Drama, Crime</genre>
+    <director>Hans Weingartner</director>
+    <country>Germany</country>
+    <duration>127</duration>
+    <imbd_rating>7.4</imbd_rating>
+    <actors_names>Daniel Brühl, Julia Jentsch, Stipe Erceg</actors_names>
+    <votes>32,621</votes>
+  </Movie>
+  <Movie>
+    <title>Downfall</title>
+    <release_year>2004</release_year>
+    <genre>Drama, History</genre>
+    <director>Oliver Hirschbiegel</director>
+    <country>Germany</country>
+    <duration>156</duration>
+    <imbd_rating>8.2</imbd_rating>
+    <actors_names>Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes</actors_names>
+    <votes>383,325</votes>
+  </Movie>
+</Movies>
